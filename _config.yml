@@ -1,0 +1,27 @@
+name: U of I SIGPwny
+author: JP Smith
+baseurl: /
+description: We hack things
+github: http://www.github.com/sigpwny
+twitter: http://www.twitter.com/sigpwny
+email: jasmth14@illinois.edu
+
+##Make sure to edit the above fields, especially for disqus.
+
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
