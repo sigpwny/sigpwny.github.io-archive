@@ -1,11 +1,10 @@
 name: SIGPwny
 author: SIGPwny
 description: We hack things
-github: http://www.github.com/sigpwny
-twitter: http://www.twitter.com/sigpwny
+github: //www.github.com/sigpwny
+facebook: //www.facebook.com/groups/439995656109426
+twitter: //www.twitter.com/sigpwny
 email: jasmth14@illinois.edu
-
-##Make sure to edit the above fields, especially for disqus.
 
 highlighter: pygments
 markdown: redcarpet

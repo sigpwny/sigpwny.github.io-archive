@@ -1,5 +1,5 @@
 ---
-title: Herring Cove
+title: SIGPwny
 ---
 {% include showcase.html %}
 {% include greeting.html %}
@@ -11,7 +11,6 @@ title: Herring Cove
     {% if forloop.first %}
       {% assign add_class = 'most-recent' %}
       {% capture fresh_tag %}
-        &nbsp;<span class="badge"><smaller>FRESH</smaller></span>
       {% endcapture %}
     {% endif %}
     <ul class="homepage-posts {{ add_class }}">
@@ -33,7 +32,7 @@ title: Herring Cove
     {% assign fresh_tag = '' %}
   {% endfor %}
   <ul>
-    <a href="{{ site.baseurl }}/list.html">View More...</a>
+    <a href="{{ site.baseurl }}/list.html">Read More...</a>
   </ul>
 </div>
 {% endif %}
