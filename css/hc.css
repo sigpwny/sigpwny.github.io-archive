@@ -499,11 +499,16 @@ time
   box-shadow:1px 1px 0 1px #e8e8e8;
   max-width:800px;
   padding: 40px 40px;
+  font-size: 1.2em;
 }
 
 .recent-card h1
 {
   color:#d90006;
+}
+
+#recent-readmore {
+  font-size: 1.2rem;
 }
 
 .card

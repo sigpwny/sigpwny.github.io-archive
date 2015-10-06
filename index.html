@@ -8,17 +8,16 @@ title: SIGPwny
 
   {% if site.posts != empty %}
   <div class="recent-card">
-    <h1>Recent Posts</h1>
+    <h2>Recent Posts</h2>
     {% for post in site.posts limit: 3 %}
       {% if forloop.first %}
         {% assign add_class = 'most-recent' %}
         {% capture fresh_tag %}
         {% endcapture %}
       {% endif %}
-      <ul class="homepage-posts {{ add_class }}">
+      <ul class="posts {{ add_class }}">
         <li>
           <span>
-            <h4>
               <a href="{{ site.baseurl }}/{{ post.url }}">
                 {{ post.title }}
               </a>
@@ -26,7 +25,6 @@ title: SIGPwny
               <time class="pull-right">
                 {{ post.date | date_to_string | date: "%b %-d, %Y"  }}
               </time>
-            </h4>
           </span>
         </li>
       </ul>
@@ -34,7 +32,7 @@ title: SIGPwny
       {% assign fresh_tag = '' %}
     {% endfor %}
     <ul>
-      <a href="{{ site.baseurl }}/list.html">Read More...</a>
+      <a id="recent-readmore" href="{{ site.baseurl }}/list.html">Read More...</a>
     </ul>
   </div>
   {% endif %}
