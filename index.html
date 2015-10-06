@@ -1,11 +1,11 @@
 ---
 title: SIGPwny
 ---
-{% include showcase.html %}
+<!-- {% include showcase.html %} -->
 {% include greeting.html %}
 
 {% if site.posts != empty %}
-<div class="recent-posts">
+<div class="recent-card">
   <h1>Recent Posts</h1>
   {% for post in site.posts limit: 3 %}
     {% if forloop.first %}
