@@ -11,13 +11,17 @@ body
 }
 
 body, body h1, body h2, body h3, body h4, body h5, body h6, body p {
-  font-family: "Source Sans Pro", helvetica, sans-serif !important;
+  font-family: "Source Sans Pro", helvetica, sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6
 {
   color:#d90006;
   margin: 0 0 10px;
+}
+
+body p {
+  font-size: 1.65rem;
 }
 
 h1
@@ -94,10 +98,13 @@ h1
   padding:30px 0 0
 }
 
+.sidebar-nav li a, .sidebar-nav li h3 {
+  padding-left: 35px;
+}
+
 .sidebar-nav li
 {
   line-height:30px;
-  text-indent:40px;
   font-weight:200;
   color:#9c9c9c;
   text-shadow:1px 1px #fff
@@ -207,19 +214,16 @@ pre
 #social-wrapper
 {
   color:#5c646f;
-  padding:10px 0
 }
 
 #social-wrapper a
 {
   font-size:15px;
-  text-indent:20px
 }
 
 #social-wrapper li
 {
   font-size:15px;
-  text-indent:0;
   word-spacing:10px
 }
 
@@ -520,6 +524,16 @@ time
 #friends {
   margin-top: 20px;
   text-align: center;
+
+  list-style: none;
+}
+
+#friends li {
+  margin-bottom: 25px;
+}
+
+#friends img {
+  height: 45px;
 }
 
 .letter p
@@ -538,6 +552,10 @@ time
 #article h1,#article h2,#article h3
 {
   color:#3a3a3a
+}
+
+#brand-text {
+  
 }
 
 @media (max-width:767px) {
