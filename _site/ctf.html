@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <title>UIUCTF</title>
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+      <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+
+      <!-- Latest compiled and minified CSS -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+      <!-- Optional theme -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+      <!-- Latest compiled and minified JavaScript -->
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+      <!-- Custom styles for this template -->
+      <link href="css/cover.css" rel="stylesheet">
+
+    </head>
+  <body>
+    <div class="site-wrapper">
+
+  <div class="site-wrapper-inner">
+
+    <div class="cover-container">
+
+      <div class="masthead clearfix">
+        <div class="inner">
+        </div>
+      </div>
+
+      <div class="inner cover">
+        <h1 class="cover-heading"><big style="color: #FA6300">UIUCTF</big> <big style="color: #131F33">2018</big></h1>
+        <p class="lead">April 6 - 8</p>
+        <p class="lead lesser">1900 - 0700</p>
+        <p class="lead lesser">UIUCTF is an online jeopardy-style CTF Competition. Teams of all shapes and sizes are welcome to participate.</p>
+        <p class="lead lesser">Registration is now open via the link below! You can contact the organizers via #uiuctf on freenode with any issues.</p>
+        <p class="lead"><a href="http://uiuc.tf">uiuc.tf</a></p>
+      </div>
+      <br />
+      <br />
+      <div class="inner cover">
+        <h3 class="cover-heading">Generously sponsored by</h3>
+        <a href="https://www.trailofbits.com/"><img src="images/tob_logo.png" style="height: 20%; width: 20%"></img></a>
+      </div>
+
+      <br />
+      <br />
+      <div class="inner cover">
+        <h3 class="cover-heading" id="countdown"></h3>
+        <script>
+        var countDownDate = new Date("Apr 6, 2018 19:00:00 GMT-0500").getTime();
+
+        var x = setInterval(function() {
+          var now = new Date().getTime();
+          var distance = countDownDate - now;
+
+          var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+          var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+          var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+          var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+          document.getElementById("countdown").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+
+          if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("countdown").innerHTML = "<a href='http://uiuc.tf'>http://uiuc.tf</a>";
+          }
+        }, 1000);
+        </script>
+      </div>
+
+      <div>
+        <div class="inner">
+          <p>UIUCTF is organized by SIGPwny, the student security club at the University of Illinois at Urbana-Champaign.</p>
+          <p><a href="https://sigpwny.github.io/">sigpwny.github.io</a></p>
+          <p><a href="https://twitter.com/uiuctf">@UIUCTF</a></p>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+  </body>
+</html>
