@@ -6,7 +6,7 @@ facebook: //www.facebook.com/groups/439995656109426
 twitter: //www.twitter.com/UIUC_SIGPwny
 email: sigpony-l-owner@acm.uiuc.edu
 
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 redcarpet:
   extensions: ["tables"]
