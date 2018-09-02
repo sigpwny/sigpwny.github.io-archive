@@ -7,7 +7,7 @@ twitter: //www.twitter.com/UIUC_SIGPwny
 email: sigpony-l-owner@acm.uiuc.edu
 
 highlighter: pygments
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["tables"]
 
