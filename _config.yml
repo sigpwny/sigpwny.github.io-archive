@@ -22,3 +22,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+collections: 
+  meetings:
+    output: true
+    permalink: /:collection/:path

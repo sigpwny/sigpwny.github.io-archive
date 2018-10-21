@@ -1,0 +1,32 @@
+	<!-- The liquid tags here are taken from _includes/posts.html. -->
+    {% if site.meetings != empty %}
+    <div class="recent-card">
+        <h2>Meetings</h2>
+		<p>We package our meetings for re-usability. Hopefully, others can learn from them too!</p>
+        {% for meeting in site.meetings limit: 5 %}
+            {% if forloop.first %}
+                {% assign add_class = 'most-recent' %}
+                {% capture fresh_tag %}
+                {% endcapture %}
+            {% endif %}
+            <ul class="posts {{ add_class }}">
+                <li>
+                    <span>
+							<a href="{{ meeting.url }}">
+                                {{ meeting.title }}
+                            </a>
+                            {{ fresh_tag }}
+                            <time class="pull-right">
+                                {{ meeting.date | date_to_string | date: "%b %-d, %Y"    }}
+                            </time>
+                    </span>
+                </li>
+            </ul>
+            {% assign add_class = '' %}
+            {% assign fresh_tag = '' %}
+        {% endfor %}
+        <ul>
+            <a id="recent-readmore" href="{{ site.baseurl }}/list.html">More meetings</a>
+        </ul>
+    </div>
+    {% endif %}
