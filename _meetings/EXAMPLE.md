@@ -1,13 +1,19 @@
 ---
+date:   2018-10-21 21:15:00 -0500
 layout: meeting
 published: false
 title:  "Example"
 slides: link-to-google-docs
-link-to-assets-in-github: link-to-folder-in-github-repo
-list-of-topics: [reversing,pwn]
+link-to-assets-in-github: ""
+goal: "Demonstrate an example."
+deploy-instructions: ""
+list-of-topics: [
+	"reversing",
+	"pwn"
+	]
 ---
 
-<!-- This is the format for every single meeting. For boxers: all information can go
-into the "front matter" above, between the three backslashes. -->
 {% include single-meeting.html  %}
 
+Description goes here! Any additional information.
+AKA "how to run this meeting again in the future."

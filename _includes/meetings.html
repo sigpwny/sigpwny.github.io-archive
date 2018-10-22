@@ -3,6 +3,7 @@
     <div class="recent-card">
         <h2>Meetings</h2>
 		<p>We package our meetings for re-usability. Hopefully, others can learn from them too!</p>
+		<!-- Todo: I think this is oldest first, which is.... not great. -->
         {% for meeting in site.meetings limit: 5 %}
             {% if forloop.first %}
                 {% assign add_class = 'most-recent' %}
@@ -16,14 +17,13 @@
                                 {{ meeting.title }}
                             </a>
                             {{ fresh_tag }}
-                            <p class="pull-right">
-							topics: 
-							{% for topic in meeting.list-of-topics %}
-                                {{ topic }}
-							{% endfor %}
+							<!--
+                            <time class="pull-right">
+                                {{ meeting.date | date_to_string | date: "%b %-d, %Y"    }}
+                            </time>
+							-->
 <!-- Feel free to remove the topics if it stops making sense to have. -->
 <!-- Jekyll HAS a proper tag system which could probably implement this more elegantly. -->
-                            </p>
                     </span>
                 </li>
             </ul>

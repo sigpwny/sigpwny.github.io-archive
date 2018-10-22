@@ -2,7 +2,13 @@
 
 <a href='{{ page.slides }}'>Slides</a>
 &nbsp;
-<a href='{{ page.link-to-assets-in-github }}'>Required files</a>
+{% if page.link-to-assets-in-github != "" %} <a href='{{ page.link-to-assets-in-github }}'>Required files</a>
+<br>{% endif %}
+<br> 
+
+<h4>Goal</h4>
+<p>{{ page.goal }}</p>
+<br>
 
 <h4>Topics Covered:</h4>
 <div>
@@ -12,5 +18,13 @@
 		{% endfor %}
 	</ul>
 </div>
+<br>
+
+
+{% if page.deploy-instructions != "" %}
+<h4>Deploy Instructions</h4>
+<p>{{ page.deploy-instructions }}</p>
+<br>
+{% endif %}
 
 <h4>Description</h4>
