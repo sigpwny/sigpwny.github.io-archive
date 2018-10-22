@@ -16,9 +16,14 @@
                                 {{ meeting.title }}
                             </a>
                             {{ fresh_tag }}
-                            <time class="pull-right">
-                                {{ meeting.date | date_to_string | date: "%b %-d, %Y"    }}
-                            </time>
+                            <p class="pull-right">
+							topics: 
+							{% for topic in meeting.list-of-topics %}
+                                {{ topic }}
+							{% endfor %}
+<!-- Feel free to remove the topics if it stops making sense to have. -->
+<!-- Jekyll HAS a proper tag system which could probably implement this more elegantly. -->
+                            </p>
                     </span>
                 </li>
             </ul>

@@ -1,0 +1,16 @@
+<!-- This file contains formatting for individual meeting pages. -->
+
+<a href='{{ page.slides }}'>Slides</a>
+&nbsp;
+<a href='{{ page.link-to-assets-in-github }}'>Required files</a>
+
+<h4>Topics Covered:</h4>
+<div>
+	<ul>
+		{% for topic in page.list-of-topics %}
+		<li>{{ topic }}</li>
+		{% endfor %}
+	</ul>
+</div>
+
+<h4>Description</h4>

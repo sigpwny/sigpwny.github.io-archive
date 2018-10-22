@@ -3,11 +3,15 @@ layout: default
 ---
 <div id="article">
   <div class="article-title">{{ page.title }}</div>
+  <!-- We don't need the date on meetings, but this field might be interesting for something else.
+  A meeting sub-header, maybe? A short summary or something.
   <p class="meta">
     <small>
       &nbsp;<i class="fa fa-calendar-o"></i> {{ page.date | date_to_string}}
     </small>
-  </p> <hr/>
+  </p>
+  -->
+  <hr/>
   <div class="post">
     {{ content }}
   </div>
