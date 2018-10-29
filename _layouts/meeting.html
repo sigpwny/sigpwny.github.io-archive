@@ -4,11 +4,13 @@ layout: default
 <div id="article">
   <div class="article-title">{{ page.title }}</div>
 
+{% if page.credit != "" %}
   <p class="meta">
     <small>
       &nbsp; This page was created by {{ page.credit }}.
     </small>
   </p>
+{% endif %}
 
   <hr/>
   <div class="post">

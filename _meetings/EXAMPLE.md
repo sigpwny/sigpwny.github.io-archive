@@ -3,6 +3,7 @@ date:   2018-10-21 21:15:00 -0500
 layout: meeting
 published: false
 title:  "Example"
+credit: ""
 slides: link-to-google-docs
 link-to-assets-in-github: ""
 goal: "Demonstrate an example."
