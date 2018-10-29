@@ -8,7 +8,10 @@ link-to-assets-in-github: ""
 goal: "Learn the basics of Unix and command lines."
 how-to-run: [
 	"In email, ask people to set up a shell.",
-	"Have the presenter solve the first 5 levels of Bandit.",
+	"Ask the presenter to solve the first 5 levels of Bandit ahead of time.",
+	"Walk around and help people set up shells.",
+	"Have the presenter slowly solve the first 5 levels up on the
+	projector."
 	]
 list-of-topics: [
 	"Unix is a categorization of operating system focused on modularity.",
