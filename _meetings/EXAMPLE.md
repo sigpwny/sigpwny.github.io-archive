@@ -6,7 +6,11 @@ title:  "Example"
 slides: link-to-google-docs
 link-to-assets-in-github: ""
 goal: "Demonstrate an example."
-deploy-instructions: ""
+how-to-run: [
+	"As concisely as possible, how to run this meeting.",
+	"If you're unsure, ask Ian and/or the person who ran it.",
+	"Don't forget to drop a comma after each line.",
+]
 list-of-topics: [
 	"reversing",
 	"pwn"

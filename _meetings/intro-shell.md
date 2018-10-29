@@ -6,7 +6,10 @@ title:  "Intro to Unix and Command line"
 slides: https://docs.google.com/presentation/d/1pYxPmQfwHzAjbGTjpbhWmjaU6jC2EtJzrGei7NCTCAg/edit?usp=sharing
 link-to-assets-in-github: ""
 goal: "Learn the basics of Unix and command lines."
-deploy-instructions: ""
+how-to-run: [
+	"In email, ask people to set up a shell.",
+	"Have the presenter solve the first 5 levels of Bandit.",
+	]
 list-of-topics: [
 	"Unix is a categorization of operating system focused on modularity.",
 	"A command line can be thought of as a  file manager with a bunch of extra features.",

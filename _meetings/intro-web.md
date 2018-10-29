@@ -6,7 +6,12 @@ title:  "Intro To Web"
 slides: https://docs.google.com/presentation/d/1lfig510fj-bVjbFUNwhwPke2G8ktskUp5e_Q3Df2Vf8/
 link-to-assets-in-github: ""
 goal: "To learn about web vulnerabilities and how to fix them."
-deploy-instructions: ""
+how-to-run: [
+	"Give the presentation.",
+	"Have the presenter demonstrate simple XSS in the Gruyere app.",
+	"There's one in the 'homepage' field of profile. Drop
+	an alert(1) inside script tags, go to 'My Snippets', and click 'My site'."
+	]
 list-of-topics: [
 	"Server, which stores data, communicates with client, which displays
 	server's info, via HTTP",

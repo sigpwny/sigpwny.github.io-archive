@@ -6,7 +6,7 @@ title:  "Intro Meeting Example"
 slides: https://docs.google.com/presentation/d/1d98Bs5q_LFgx1IQnWBIgfOkGYOEfoc1qdbV9nIr3v6w/
 link-to-assets-in-github: "https://example.com"
 goal: "Learn about what a security club is, and what SIGPwny is."
-deploy-instructions: ""
+how-to-run: ""
 list-of-topics: [
 	"SIGPwny meetings will always be 15m of presentation, and
 	45m of interactive activity.",

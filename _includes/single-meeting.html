@@ -21,9 +21,15 @@
 <br>
 
 
-{% if page.deploy-instructions != "" %}
-<h4>Deploy Instructions</h4>
-<p>{{ page.deploy-instructions }}</p>
+{% if page.how-to-run != "" %}
+<h4>How to Run this meeting</h4>
+<div>
+	<ul>
+		{% for bullet in page.how-to-run %}
+		<li>{{ bullet }}</li>
+		{% endfor %}
+	</ul>
+</div>
 <br>
 {% endif %}
 
