@@ -17,3 +17,5 @@ list-of-topics: [
 
 Description goes here! Any additional information.
 AKA "how to run this meeting again in the future."
+
+You have [full markdown formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) here, please use it!
