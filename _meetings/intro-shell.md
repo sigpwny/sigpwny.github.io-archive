@@ -15,9 +15,9 @@ how-to-run: [
 	projector."
 	]
 list-of-topics: [
-	"Unix is a categorization of operating system focused on modularity.",
+	"Unix refers to a group of operating systems that are focused on doing one thing and doing it well.",
 	"A command line can be thought of as a  file manager with a bunch of extra features.",
-    "Capture the flags can be a great way to learn, get started at http://overthewire.org/wargames/bandit/bandit0.html"
+    "Wargames can be a great way to learn."
 	]
 ---
 
@@ -25,4 +25,5 @@ list-of-topics: [
 
 Being comfortable with the UNIX command line is an essential skill for CTF's and other security activities.
 The best way to learn the command line is to use it. A great place to try a CTF and learn the command line
-is http://overthewire.org/wargames/bandit/bandit0.html. Warning, some of the later levels (20+) can be broken sometimes
+is [http://overthewire.org/wargames/bandit/bandit0.html](http://overthewire.org/wargames/bandit/bandit0.html).
+Warning, some of the later levels (20+) can be broken sometimes.
