@@ -14,36 +14,10 @@ template](https://raw.githubusercontent.com/sigpwny/sigpwny.github.io/master/_me
 and fill it out. Explanation of the fields below. It will eventually look
 like [this example currently live on the
 website](https://sigpwny.github.io/meetings/intro-mtg).** 
-```
----
-date:   2018-10-21 21:15:00 -0500
-layout: meeting
-published: true
-title:  "Example"
-slides: link-to-google-docs
-link-to-assets-in-github: ""
-goal: "Demonstrate an example."
-how-to-run: [
-	"As concisely as possible, how to run this meeting.",
-	"If you're unsure, ask Ian and/or the person who ran it.",
-	"Don't forget to drop a comma after each line.",
-]
-list-of-topics: [
-	"reversing",
-	"pwn"
-	]
----
-
-{% include single-meeting.html  %}
-
-Description goes here! Any additional information.
-AKA "how to run this meeting again in the future."
-
-You have [full markdown formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) here, please use it!
-```
 
 * Markdown file formatted with a markdown header.
 	* **title**: 
+	* **credit**: Your real name or username, if you want it.
 	* **slides**: \<link to slides hosted on Google Docs\>
 	* **link-to-assets-in-github**:
 		* Optional; leave as `""` if you have none.
