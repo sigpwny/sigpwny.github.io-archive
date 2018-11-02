@@ -11,6 +11,7 @@ how-to-run: [
 	"Give the presentation.",
 	"Get people started on the tasks.",
 	"Help people.",
+	"Every ten minutes or so, demonstrate most of how to solve a challenge on the projector."
 ]
 list-of-topics: [
 	"file formats",
@@ -24,7 +25,10 @@ list-of-topics: [
 
 {% include single-meeting.html  %}
 
-Description goes here! Any additional information.
-AKA "how to run this meeting again in the future."
+### why is forensics interesting
 
-You have [full markdown formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) here, please use it!
+- better at computers
+
+what jobs exist
+
+how to gain more skills
