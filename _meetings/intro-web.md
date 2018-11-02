@@ -14,10 +14,9 @@ how-to-run: [
 	an alert(1) inside script tags, go to 'My Snippets', and click 'My site'."
 	]
 list-of-topics: [
-	"How clients and servers communicate via HTTP",
-	"There are lots of vulnerabilities within the server and client and
-	tools can help bypass protections",
-	"Introduced Google Gruyere and OverTheWire's Natas wargames"
+	"How clients and servers communicate via HTTP.",
+	"Warned about the the ethical and legal concerns of knowing how to hack website.",
+	"Introduced Google Gruyere and OverTheWire's Natas wargames."
 	]
 ---
 
