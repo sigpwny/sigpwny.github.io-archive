@@ -1,20 +1,24 @@
 ---
-date:   2018-10-21 21:15:00 -0500
+date:   2018-11-01 20:15:00 -0500
 layout: meeting
 published: false
-title:  "Example"
-credit: ""
-slides: link-to-google-docs
-link-to-assets-in-github: ""
-goal: "Demonstrate an example."
+title:  "Intro to Forensics"
+credit: "Pranav and Ian"
+slides: https://docs.google.com/presentation/d/1mXy-PeP1PDk_3hOLp3PNh2qHNsVN5u59kKBZOujn03o/edit?usp=sharing
+link-to-assets-in-github: "https://drive.google.com/open?id=1qDvvR0GuyUPr9wcsSsvUxlHyshkHqLK_"
+goal: "Give some basic insight to forensics."
 how-to-run: [
-	"As concisely as possible, how to run this meeting.",
-	"If you're unsure, ask Ian and/or the person who ran it.",
-	"Don't forget to drop a comma after each line.",
+	"Give the presentation.",
+	"Get people started on the tasks.",
+	"Help people.",
 ]
 list-of-topics: [
-	"reversing",
-	"pwn"
+	"file formats",
+	"network protocols",
+	"steganography",
+	"foremost",
+	"wireshark",
+	"stegsolve"
 	]
 ---
 
