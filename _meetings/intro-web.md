@@ -5,7 +5,7 @@ published: true
 title:  "Intro To Web"
 credit: "Perditor"
 slides: https://docs.google.com/presentation/d/1lfig510fj-bVjbFUNwhwPke2G8ktskUp5e_Q3Df2Vf8/
-link-to-assets-in-github: ""
+link-to-assets: ""
 goal: "To learn about web vulnerabilities and how to fix them."
 how-to-run: [
 	"Give the presentation.",

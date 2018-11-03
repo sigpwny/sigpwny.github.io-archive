@@ -5,7 +5,7 @@ published: true
 title:  "Intro to Unix and Command line"
 credit: "Isaac Warren"
 slides: https://docs.google.com/presentation/d/1pYxPmQfwHzAjbGTjpbhWmjaU6jC2EtJzrGei7NCTCAg/edit?usp=sharing
-link-to-assets-in-github: ""
+link-to-assets: ""
 goal: "Learn the basics of Unix and command lines."
 how-to-run: [
 	"In email, ask people to set up a shell.",
