@@ -1,7 +1,7 @@
 ---
 date:   2018-10-21 21:15:00 -0500
 layout: meeting
-published: false
+published: true
 title:  "Intro to Reverse Engineering"
 credit: "Chirag Nanda"
 slides: https://drive.google.com/file/d/1gurpqZch4aER_x08tXD3mNOBzNdXa7LG/view
