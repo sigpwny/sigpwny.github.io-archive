@@ -5,7 +5,7 @@ published: true
 title:  "Intro Meeting Example"
 credit: Ian Klatzco
 slides: https://docs.google.com/presentation/d/1d98Bs5q_LFgx1IQnWBIgfOkGYOEfoc1qdbV9nIr3v6w/
-link-to-assets-in-github: "https://example.com"
+link-to-assets: "https://example.com"
 goal: "Learn about what a security club is, and what SIGPwny is."
 how-to-run: ""
 list-of-topics: [

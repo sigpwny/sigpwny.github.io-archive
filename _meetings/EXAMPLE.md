@@ -5,7 +5,7 @@ published: false
 title:  "Example"
 credit: ""
 slides: link-to-google-docs
-link-to-assets-in-github: ""
+link-to-assets: ""
 goal: "Demonstrate an example."
 how-to-run: [
 	"As concisely as possible, how to run this meeting.",

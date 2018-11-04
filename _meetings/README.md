@@ -19,12 +19,10 @@ website](https://sigpwny.github.io/meetings/intro-mtg).**
 	* **title**: 
 	* **credit**: Your real name or username, if you want it.
 	* **slides**: \<link to slides hosted on Google Docs\>
-	* **link-to-assets-in-github**:
-		* Optional; leave as `""` if you have none.
-		* Get access to this repository. 
-		* Create a folder titled after the meeting you are boxing.
-		* Add the files needed for this meeting. Try to avoid stuff in
-		excess of 10mb (host it elsewhere).
+	* **link-to-assets**:
+		* Leave as `""` if you have none.
+		* If RE or crypto, you will have required files.
+		* Ask for write access to the [Google Drive folder](https://drive.google.com/open?id=1bmZcGS-6P57eWEtMSkABAWc7rt2E0t1J).
 	* **goal**: Goal of the meeting, as concisely as possible.
 	* **how-to-run**: leave `""` if there are none. Try to clearly and concisely summarize what needs to be done to run this meeting. Usually going to be "presenter runs through the slides and solves the exercise themselves."
 	* **list-of-topics**: Summarize the slides into the major bullet points.
