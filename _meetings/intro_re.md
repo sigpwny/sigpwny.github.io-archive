@@ -5,7 +5,7 @@ published: false
 title:  "Intro to Reverse Engineering"
 credit: "Chirag Nanda"
 slides: https://drive.google.com/file/d/1gurpqZch4aER_x08tXD3mNOBzNdXa7LG/view
-link-to-assets-in-github: ""
+link-to-assets-in-github: "https://drive.google.com/drive/u/0/folders/1bmZcGS-6P57eWEtMSkABAWc7rt2E0t1J"
 goal: "Learn about Reverse Engineering and tools used in this process"
 how-to-run: [
         "Send an email instructing people to install ida or binary ninja",
