@@ -31,8 +31,10 @@ website](https://sigpwny.github.io/meetings/intro-mtg).**
 		* Expand on the goal, deploy instructions, topics, or offer
 		teaching instructions.
 		* Most importantly, offer instructions 
-* Once you complete this file, send it to the
-	website admin, currently @Flyrom / Trevor.
+* Once you complete this file:
+  * fork this repo
+  * add the file to this directory (follow the naming convention)
+  * open a pull request on the main repo
 
 #### (Optional) See the fruits of your labor (preview the thing you're creating)
 * Install Jekyll (& ruby)
