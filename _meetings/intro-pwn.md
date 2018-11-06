@@ -17,8 +17,8 @@ how-to-run: [
 ]
 list-of-topics: [
 	"Finding and exploiting vulnerabilities in software programs",
-	"Using tools such as gdb and Binary Ninja to disassemble programs",
-  "How memory is allocated and stored using stack and heap memory"
+	"Tools such as gdb and Binary Ninja that allow you to break down programs",
+  "The stack is where programs allocate local variables"
 	]
 ---
 {% include single-meeting.html  %}
