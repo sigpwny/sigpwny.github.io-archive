@@ -21,4 +21,4 @@ list-of-topics: [
 ---
 {% include single-meeting.html  %}
 
-Binary exploitation can be intimidating, but the meeting will be walking through a pwn challenge from pwnable.kr that will introduce new members to the concepts and tools they need to get started. The challenge involves exploiting a buffer overflow, which is one of the most common kinds of vulnerabilities. Depending on a member's experience level, some may struggle with the challenge more than others. Walk around the room and try to help those who seem to be struggling.
+Binary exploitation can be intimidating, but the meeting will be walking through a pwn challenge from [pwnable.kr](http://pwnable.kr/play.php) that will introduce new members to the concepts and tools they need to get started. The challenge involves exploiting a buffer overflow, which is one of the most common kinds of vulnerabilities. Depending on a member's experience level, some may struggle with the challenge more than others. Walk around the room and try to help those who seem to be struggling.
