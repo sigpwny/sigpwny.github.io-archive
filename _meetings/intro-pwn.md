@@ -16,9 +16,9 @@ how-to-run: [
   "Towards the end of the meeting, step through how to solve the challenge."
 ]
 list-of-topics: [
-	"Finding and exploiting vulnerabilities in software programs",
-	"Tools such as gdb and Binary Ninja that allow you to break down programs",
-  "The stack is where programs allocate local variables"
+	"Types of vulnerabilities in binaries (buffer overflow)",
+	"Memory layout of computers (the stack)",
+	"Tools: gdb (debugger), pwntools (python library for pwn), Binary Ninja/radare2 (disassembler)"
 	]
 ---
 {% include single-meeting.html  %}
