@@ -7,6 +7,11 @@ Your task is to copy a template and fill it with content, then send it to
 the website admin. You can also preview how it'll look on the website
 locally.
 
+**The audience** is an upperclassman and an underclassman running the meeting.
+The upperclassman will send the underclassman the link to the page and ask them
+to solve the challenges ahead of time. The upperclassman will also read the "topics"
+section as a method of concisely communicating the learn objectives.
+
 ---
 
 **Please download [this
