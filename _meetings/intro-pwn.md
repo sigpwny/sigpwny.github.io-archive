@@ -1,17 +1,19 @@
 ---
-date:   2018-11-05 20:00:00 -0500
+date: 2018-11-05 20:00:00 -0500
 layout: meeting
 published: true
 title:  "Intro to Pwn"
 credit: "Josh"
-slides: [Slides](https://docs.google.com/presentation/d/1wxCVMbv8TRAgRJKmNtZ6WwpgiQDoZ6MyUDfbSxvw6rE/edit#slide=id.g42d8f497e0_16_0)
+slides: https://docs.google.com/presentation/d/1wxCVMbv8TRAgRJKmNtZ6WwpgiQDoZ6MyUDfbSxvw6rE/edit#slide=id.g42d8f497e0_16_0)
 link-to-assets: ""
-goal: "Learn to find and exploit vulnerabilities in programs"
+goal: "Learn about the pwn CTF category: finding and exploiting
+vulnerabilities in programs running on remote servers."
 how-to-run: [
-	"Instruct members to download and get familiar with [gdb](https://www.gnu.org/software/gdb/) and [Binary Ninja](https://binary.ninja/). [Pwntools](https://github.com/Gallopsled/pwntools) is also recommended",
-	"Go through the provided slides, explaining the major concepts as you go",
-	"Instruct members to solve the [bof CTF challenge](http://sigpwny.com/challenges#bof)",
-  "Towards the end of the meeting, step through how to solve the challenge"
+	"Instruct members to download and get familiar with gdb and Binary
+	Ninja. Pwntools is also recommended.",
+	"Go through the provided slides, explaining the major concepts as you go.",
+	"Instruct members to solve the bof CTF challenge.",
+  "Towards the end of the meeting, step through how to solve the challenge."
 ]
 list-of-topics: [
 	"Finding and exploiting vulnerabilities in software programs",
