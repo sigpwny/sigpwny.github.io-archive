@@ -1,5 +1,5 @@
 ---
-date:   2018-09-06 21:15:00 -0500
+date:  2018-09-06 21:15:00 -0500
 layout: meeting
 published: true
 title:  "Intro Meeting Example"
