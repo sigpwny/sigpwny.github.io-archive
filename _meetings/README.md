@@ -33,6 +33,7 @@ website](https://sigpwny.github.io/meetings/intro-mtg).**
 	* **list-of-topics**: Summarize the slides into the major bullet points.
 	Try to keep it to three. Everything in the list must be quoted.
 	* **Content Section**:
+		* **This should be the email blurb.**
 		* Expand on the goal, deploy instructions, topics, or offer
 		teaching instructions.
 		* Most importantly, offer instructions 
