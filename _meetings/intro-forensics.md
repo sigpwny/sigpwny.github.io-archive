@@ -1,7 +1,7 @@
 ---
 date:   2018-11-01 20:15:00 -0500
 layout: meeting
-published: false
+published: true
 title:  "Intro to Forensics"
 credit: "Pranav Goel"
 slides: https://docs.google.com/presentation/d/1mXy-PeP1PDk_3hOLp3PNh2qHNsVN5u59kKBZOujn03o/edit?usp=sharing
