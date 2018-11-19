@@ -25,10 +25,27 @@ list-of-topics: [
 
 {% include single-meeting.html  %}
 
-### why is forensics interesting
+### Why is Forensics Interesting?
+- Improve Computer Abilities
+- Improve Network Understandings
+- Extremely Important in Solving Crimes
 
-- better at computers
+### what jobs exist
+- Incident Response
+- Malware Analysis
+- File Retrieval
+- Tracking/Monitoring
+- Government Agencies
 
-what jobs exist
+### how to gain more skills
+- Practice Makes Perfect
+- Learning Tools Like Foremost, Wireshark, and Stegsolve
+- Learn About Networking
+- Learn Everything You Can About Files
+- Do the CTF challeges Availible for Forensics (I.E PicoCTF and [This List of CTFs](https://aboutdfir.com/challenges-ctfs/)) 
+- Understanding Python in Relation to Image, File, and Data Manipulation
+- Practice Steganography - Both Sides of it
+- Utilize Google and Youtube
+- Check out Router God's [Wireshark Videos](https://www.youtube.com/playlist?list=PLTIJiKI4vOA37qUl-5ztWYcCE6zpscF6j)
+- Check out Trail of Bits' [Intro to Forensics](https://trailofbits.github.io/ctf/forensics/)
 
-how to gain more skills
