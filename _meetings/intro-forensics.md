@@ -39,13 +39,11 @@ list-of-topics: [
 
 ### How to gain more skill:
 - Practice makes perfect
-- Learning Tools Like Foremost, Wireshark, and Stegsolve
-- Learn About Networking
-- Learn Everything You Possibly Can About Files
-- Do the CTF challeges Availible for Forensics (I.E PicoCTF and [This List of CTFs](https://aboutdfir.com/challenges-ctfs/)) 
-- Understanding Python in Relation to Image, File, and Data Manipulation
-- Practice Steganography - Both Sides of it
-- Utilize Google and Youtube
+- Learning tools Like Foremost, Wireshark, and Stegsolve
+- Learn about networking
+- Learn everything you possibly can about files
+- Do the CTF challeges availible for forensics (I.E PicoCTF and [this List of CTFs](https://aboutdfir.com/challenges-ctfs/))
+- Learn how to use Python as a tool for image manipulation, opening/handling files
+- Practice Steganography - both sides of it
 - Check out Router God's [Wireshark Videos](https://www.youtube.com/playlist?list=PLTIJiKI4vOA37qUl-5ztWYcCE6zpscF6j)
 - Check out Trail of Bits' [Intro to Forensics](https://trailofbits.github.io/ctf/forensics/)
-
