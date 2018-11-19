@@ -3,10 +3,10 @@ date:   2018-11-01 20:15:00 -0500
 layout: meeting
 published: false
 title:  "Intro to Forensics"
-credit: "Pranav and Ian"
+credit: "Pranav"
 slides: https://docs.google.com/presentation/d/1mXy-PeP1PDk_3hOLp3PNh2qHNsVN5u59kKBZOujn03o/edit?usp=sharing
-link-to-assets-in-github: "https://drive.google.com/open?id=1qDvvR0GuyUPr9wcsSsvUxlHyshkHqLK_"
-goal: "Give some basic insight to forensics."
+link-to-assets: "https://drive.google.com/open?id=1qDvvR0GuyUPr9wcsSsvUxlHyshkHqLK_"
+goal: "Give some basic insight to forensics CTF challenges."
 how-to-run: [
 	"Give the presentation.",
 	"Get people started on the tasks.",
@@ -25,23 +25,23 @@ list-of-topics: [
 
 {% include single-meeting.html  %}
 
-### Why is Forensics Interesting?
-- Improve Computer Abilities
-- Improve Network Understandings
-- Extremely Important in Solving Crimes
+### Why is forensics interesting?
+- Generally makes you better at computers
+- Generally makes you better at networks
+- Extremely important in solving crimes (FBI)
 
-### what jobs exist
+### What jobs exist?
 - Incident Response
 - Malware Analysis
 - File Retrieval
 - Tracking/Monitoring
 - Government Agencies
 
-### how to gain more skills
-- Practice Makes Perfect
+### How to gain more skill:
+- Practice makes perfect
 - Learning Tools Like Foremost, Wireshark, and Stegsolve
 - Learn About Networking
-- Learn Everything You Can About Files
+- Learn Everything You Possibly Can About Files
 - Do the CTF challeges Availible for Forensics (I.E PicoCTF and [This List of CTFs](https://aboutdfir.com/challenges-ctfs/)) 
 - Understanding Python in Relation to Image, File, and Data Manipulation
 - Practice Steganography - Both Sides of it
