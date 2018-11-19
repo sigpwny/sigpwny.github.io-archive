@@ -17,7 +17,7 @@ list-of-topics: [
 	"Threat modeling is the process of identifying and ranking threats in order to dedicate time and effort accordingly",
 	"Compartmentalization is making sure that your accounts are not linked together in order to limit the impact of a compromise of a single one",
 	"Rotation is the regular updating of passwords and online personas",
-	"Many experience "security fatigue" as learn more about security, overwhelming or depressing them from all they need to keep track of"
+	"Many experience \"security fatigue\" as learn more about security, overwhelming or depressing them from all they need to keep track of"
 	]
 ---
 
