@@ -8,8 +8,8 @@ slides: https://docs.google.com/presentation/d/1O2w8_e-mG4u6f-EYeuK9fojvFdYD3Z84
 link-to-assets: ""
 goal: "Learn about Operational Security and how its lessons are useful in your daily life"
 how-to-run: [
-	"Send an email to members with a short explanation of topics",
-	"Before meeting, modify the [find something embarassing](http://sigpwny.com/challenges#Find%20something%20embarrassing) challenge to link to presenters profiles",
+	"Send out email on Weds night",
+	"Before meeting, modify the find something embarassing challenge to link to presenters profiles",
 	"Give presentation",
 	"Walk around and give out flags verbally"
 ]
