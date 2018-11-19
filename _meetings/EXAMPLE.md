@@ -1,7 +1,7 @@
 ---
 date:   2018-10-21 21:15:00 -0500
 layout: meeting
-published: false
+published: true
 title:  "Example"
 credit: ""
 slides: link-to-google-docs
@@ -20,7 +20,6 @@ list-of-topics: [
 
 {% include single-meeting.html  %}
 
-Description goes here! Any additional information.
-AKA "how to run this meeting again in the future."
+Description goes here! This should function as the email blurb, so please look at previous ones and tune it appropriately.
 
 You have [full markdown formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) here, please use it!
