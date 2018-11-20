@@ -11,7 +11,7 @@ how-to-run: [
         "Send an email to tell people to prepare a coding environment of some sort, python is probably the easiest and most useful",
         "Run through the slides",
         "If needed, go over the basics of python if a majority of people are unfamiliar",
-        "Instruct and help people to complete the intro to crypto CTF challenges, start with (http://sigpwny.com/challenges#what%20is%20sha1%20hash%20of%20%22h%22)",
+        "Instruct and help people to complete the intro to crypto CTF challenges, start with (http://ctf.ctf.sigpwny.com/challenges#what%20is%20sha1%20hash%20of%20%22h%22)",
         "Slowly solve each challenge on the projector as the meeting progresses"
 ]
 list-of-topics: [

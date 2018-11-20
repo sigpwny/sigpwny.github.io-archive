@@ -11,7 +11,7 @@ how-to-run: [
         "Send an email instructing people to install Ida or radare2 or Binary Ninja",
         "Run through the slides",
         "Give an example on how these tools are used as well as how binutils like strings, ltrace and strace are used",
-        "Instruct and help people to complete the how2re CTF challenge: (http://sigpwny.com/challenges#how2re)",
+        "Instruct and help people to complete the how2re CTF challenge: (http://ctf.ctf.sigpwny.com/challenges#how2re)",
         "Solve the challenge at the end of the meeting (on the projector)"
 ]
 list-of-topics: [
