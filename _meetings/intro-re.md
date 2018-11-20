@@ -25,4 +25,8 @@ list-of-topics: [
 
 {% include single-meeting.html  %}
 Reverse Engineering is essential in understanding, debugging and cracking software as well as analyzing malware. To understand the process of reverse engineering, it is important to learn how to use tools like disassemblers, debuggers as well as some basic Unix commands and Misc Binutils like strings, ltrace and strace. This meeting will briefly introduce these tools.
+
+*It's worth noting that all RE challenges are basically simple password
+checkers*.
+
 * *Hint for the ctf challenge:* Try running the strings command to gain a better understanding of what the file is. Ltrace will also be useful in this challenge.

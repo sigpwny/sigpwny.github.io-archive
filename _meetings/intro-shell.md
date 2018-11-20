@@ -27,3 +27,8 @@ Being comfortable with the UNIX command line is an essential skill for CTF's and
 The best way to learn the command line is to use it. A great place to try a CTF and learn the command line
 is [http://overthewire.org/wargames/bandit/bandit0.html](http://overthewire.org/wargames/bandit/bandit0.html).
 Warning, some of the later levels (20+) can be broken sometimes.
+
+Here are some other useful resources:
+* [https://explainshell.com/](https://explainshell.com/)
+* [(StackOverflow) What do the fields in ls -al output mean?
+](https://unix.stackexchange.com/a/103118/163689)

@@ -1,4 +1,4 @@
-# meetings
+# boxing-meetings
 All meetings have 15m presentations, followed by an activity. We want to
 wrap these up in a packaged format so we can publish them, get cred for the
 club, and reuse them in future years.
