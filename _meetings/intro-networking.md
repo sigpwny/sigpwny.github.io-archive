@@ -11,8 +11,8 @@ how-to-run: [
 	"Presenter runs through the slides and solves the exercise themselves."
 ]
 list-of-topics: [
-	"TCP Handshake - A TCP connection is started through a threeway handshake in the order of SYN SYNACK ACK.",
-	"TCP vs UDP - TCP is reliable and ordered vs UDP which is less reliable but as a consequence faster.",
+	"TCP Handshake - A TCP connection is started through a three-way handshake of packets: SYN SYNACK ACK.",
+	"TCP vs UDP - TCP is reliable and ordered. UDP is less reliable but faster.",
 	"Netcat aka nc - An incredibly useful command tool for connecting to CTF challenges.",
 	"Wireshark - A GUI tool for analyzing network traffic on a packet level."
 	]
@@ -20,4 +20,4 @@ list-of-topics: [
 
 {% include single-meeting.html  %}
 
-Come learn how computers communicate, how these messages can be monitored and how they can be spoofed. We will primarily be covering the tcp stack and will have activities that require analysis and forging of packets using Wireshark and Scapy. "TCP is a networking protocol that is one of the main internet protocols. It is reliable, ordered, and error-checking. A TCP connection is started through a threeway handshake in the order of SYN to server SYNACK to client ACK to server. This process ensures both partes are ready to exchange data with each other over the TCP protocol. More details can be found at <https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment>".
+Come learn how computers communicate, how these messages can be monitored and how they can be spoofed. We will primarily be covering the tcp stack and will have activities that require analysis and forging of packets using Wireshark and Scapy. "TCP is a networking protocol that is one of the main internet protocols. It is reliable, ordered, and error-checking. A TCP connection is started through a three-way handshake: client sends SYN to server, server sends SYNACK to client, client sends ACK to server, and the TCP session is started. At this point, there's a reliable, not-lossy connection that you can send data over. More details can be found [on Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment).
