@@ -11,13 +11,13 @@ how-to-run: [
 	"Presenter runs through the slides and solves the exercise themselves."
 ]
 list-of-topics: [
-	"TCP Handshake - TODO (syn synack ack starts a tcp session)",
-	"TCP vs UDP - TODO explain the differences in about a line",
-	"Netcat aka nc - an incredibly useful command tool for connecting to CTF challenges",
-	"Wireshark - a GUI tool for analyzing network traffic on a packet level"
+	"TCP Handshake - A TCP connection is started through a threeway handshake in the order of SYN SYNACK ACK.",
+	"TCP vs UDP - TCP is reliable and ordered vs UDP which is less reliable but as a consequence faster.",
+	"Netcat aka nc - An incredibly useful command tool for connecting to CTF challenges.",
+	"Wireshark - A GUI tool for analyzing network traffic on a packet level."
 	]
 ---
 
 {% include single-meeting.html  %}
 
-Come learn how computers communicate, how these messages can be monitored and how they can be spoofed. We will primarily be covering the tcp stack and will have activities that require analysis and forging of packets using Wireshark and Scapy. TODO: link to https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment and say something like "TCP is this. the TCP handshake is this. it accomplishes this. more details at <wiki link>".
+Come learn how computers communicate, how these messages can be monitored and how they can be spoofed. We will primarily be covering the tcp stack and will have activities that require analysis and forging of packets using Wireshark and Scapy. "TCP is a networking protocol that is one of the main internet protocols. It is reliable, ordered, and error-checking. A TCP connection is started through a threeway handshake in the order of SYN to server SYNACK to client ACK to server. This process ensures both partes are ready to exchange data with each other over the TCP protocol. More details can be found at <https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment>".
