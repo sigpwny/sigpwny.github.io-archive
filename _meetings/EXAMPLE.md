@@ -1,7 +1,7 @@
 ---
 date:   2018-10-21 21:15:00 -0500
 layout: meeting
-published: true
+published: false # changeme to true!!!
 title:  "Example"
 credit: ""
 slides: link-to-google-docs
