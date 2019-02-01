@@ -13,6 +13,10 @@ how-to-run: [
 	"The challenges should begin with simply using %s to print a string, then using %x a few times to see the stack, then $n%x to print a specific offset, and finally using %n to overwrite information.",
 ]
 list-of-topics: [
+	"%x: print hex",
+	"%d: print decimal",
+	"%s: print string given pointer to string on stack",
+	"%n: store number of characters printed thus far into a pointer on the stack",
 	"reversing",
 	"pwn"
 	]
