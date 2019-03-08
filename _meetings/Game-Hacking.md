@@ -21,4 +21,4 @@ list-of-topics: [
 {% include single-meeting.html  %}
 
 # Game Hacking
-This meeting is about hacking games. We will be using an FPS Game to demonstrate so bring your **mouse** in order to make playing the game easier! Make sure to download Cheat Engine for this meeting. Mac can be a bit tricky to set everything up on — you need to disable "System Integrity Protection". You can do so, set a Windows VM, or pair up with someone who has a Windows laptop handy. If none of those options are available, there are CTF problems that do not require Cheat Engine you can work on.
+This meeting is about hacking games. We will be using an FPS Game to demonstrate so bring your **mouse** in order to make playing the game easier! Make sure to download Cheat Engine for this meeting. Mac can be a bit tricky to set everything up on — you need to disable "System Integrity Protection". If you can do so, set a Windows VM, or pair up with someone who has a Windows laptop handy. If none of those options are available, there are CTF problems that do not require Cheat Engine you can work on.
