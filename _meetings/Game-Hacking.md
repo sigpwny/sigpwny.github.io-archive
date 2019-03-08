@@ -8,11 +8,7 @@ credit: [
     "Chris"
 ]
 slides: "https://docs.google.com/presentation/d/1Sg3zWHWptDcDbwtdwhmKz2z79nAsHMB_-0Eizr5rGhU/edit?usp=sharing"
-link-to-assets: [
-    "https://www.cheatengine.org/",
-    "https://drive.google.com/drive/u/0/folders/19A2YZopE1G8sDYw7BOyd-KbIEb8-XaJ2"
-]
-
+link-to-assets: "https://drive.google.com/drive/u/0/folders/19A2YZopE1G8sDYw7BOyd-KbIEb8-XaJ2"
 goal: "Learn how to hack games through various CTF challenges and a presentation."
 how-to-run: [
 	"Make sure people download cheat egine.",
