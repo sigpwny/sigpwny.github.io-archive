@@ -3,6 +3,7 @@ date:   2019-3-8 1:12:00 -0500
 layout: meeting
 published: true
 title:  "Game Hacking with Ravi and Chris"
+<<<<<<< HEAD
 credit: [
     "Ravi", 
     "Chris"
@@ -13,6 +14,11 @@ link-to-assets: [
     "https://drive.google.com/drive/u/0/folders/19A2YZopE1G8sDYw7BOyd-KbIEb8-XaJ2"
 ]
 
+=======
+credit: "Ravi and Chris"
+slides: "https://docs.google.com/presentation/d/1Sg3zWHWptDcDbwtdwhmKz2z79nAsHMB_-0Eizr5rGhU/edit?usp=sharing"
+link-to-assets: "https://drive.google.com/drive/u/0/folders/19A2YZopE1G8sDYw7BOyd-KbIEb8-XaJ2"
+>>>>>>> upstream/master
 goal: "Learn how to hack games through various CTF challenges and a presentation."
 how-to-run: [
 	"Make sure people download cheat egine.",
