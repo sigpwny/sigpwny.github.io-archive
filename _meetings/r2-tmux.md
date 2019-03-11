@@ -14,7 +14,7 @@ how-to-run: [
 ]
 list-of-topics: [
 	"reversing",
-	"r2"
+	"r2",
 	"tmux"
 	]
 ---
