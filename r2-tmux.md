@@ -1,5 +1,5 @@
 ---
-date:   2018-10-21 21:15:00 -0500
+date:   2019-01-31 21:15:00 -0500
 layout: meeting
 published: true # changeme to true!!!
 title:  "r2 and tmux"
@@ -21,5 +21,4 @@ list-of-topics: [
 
 {% include single-meeting.html  %}
 
-This meeting will cover the bash extensions r2 and tmux, r2 is a disassembler that allows us to look at the binaries of a file in its assembly format. This is essential for reverse engineering. Tmux is a great way to run terminal windows inthe background, run multiple windows at once, and more!
-You have [full markdown formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) here, please use it!
+This meeting will cover the bash extensions r2 and tmux, r2 is a disassembler that allows us to look at the disassembly of an program. This is essential for reverse engineering. Tmux is a great way to run terminal windows in the background, and run multiple windows at once.
