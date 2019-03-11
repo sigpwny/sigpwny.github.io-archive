@@ -2,7 +2,7 @@
 date:  2018-09-06 21:15:00 -0500
 layout: meeting
 published: true
-title:  "Intro Meeting Example"
+title:  "Intro Meeting"
 credit: Ian Klatzco
 slides: https://docs.google.com/presentation/d/1d98Bs5q_LFgx1IQnWBIgfOkGYOEfoc1qdbV9nIr3v6w/
 link-to-assets: "https://example.com"
