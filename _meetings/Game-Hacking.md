@@ -15,7 +15,7 @@ link-to-assets: [
 
 goal: "Learn how to hack games through various CTF challenges and a presentation."
 how-to-run: [
-	"Make sure people download cheat egine.",
+	"Make sure people download cheat engine.",
 	"Set up Game (in this case Assult Cube) for Windows and Mac (make sure exploits are working on both versions) and distribute to members.",
 	"Set up related CTF problems.",
 ]
@@ -28,4 +28,4 @@ list-of-topics: [
 {% include single-meeting.html  %}
 
 # Game Hacking
-This meeting is about hacking games. We will be using an FPS Game to demonstrate so bring your **mouse** in order to make playing the game easier! Make sure to download Cheat Engine for this meeting. Mac can be a bit tricky to set everything up on — you need to disable "System Integrity Protection". You can do so, or pair up with someone who has a Windows laptop handy. If you are having trouble installing it on your Mac, you can set a Windows VM. Otherwise, you can always pair up with someone using a Windows computer. If none of those options are available, there are CTF problems that do not require Cheat Engine you can work on.
+This meeting is about hacking games. We will be using an FPS Game to demonstrate so bring your **mouse** in order to make playing the game easier! Make sure to download Cheat Engine for this meeting. As of now, the buffer overflow attack and format string attack only are supported on the Mac binary. **Note: MacOS plans to discontinue support for 32 bit apps. In the future, AssaultCube will not work on Macs.** Also, the health challenge needs to be fixed.
