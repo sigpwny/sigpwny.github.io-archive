@@ -1,7 +1,7 @@
 ---
 date:   2019-03-22 03:35:00 -0500
 layout: meeting
-published: false # changeme to true!!!
+published: true
 title:  "DynamoRIO"
 credit: "Joshua Park"
 slides: https://drive.google.com/file/d/1qTYClj78ijU9e2R06vbs7ujchqjPsa2y/view
