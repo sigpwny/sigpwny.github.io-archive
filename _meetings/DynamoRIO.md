@@ -5,7 +5,7 @@ published: true
 title:  "DynamoRIO"
 credit: "Joshua Park"
 slides: https://drive.google.com/file/d/1qTYClj78ijU9e2R06vbs7ujchqjPsa2y/view
-link-to-assets: "https://www.dynamorio.org/"
+link-to-assets: https://drive.google.com/drive/folders/19vbPQN3U4DShHBiwn2I_1CZ3zuFNaBXs?usp=sharing
 goal: "Learn to use DynamoRIO to low-level CTF challenges and analyze binaries"
 how-to-run: [
 	"Make sure people have access to the vm or have DynamoRIO installed on their local machine.",
