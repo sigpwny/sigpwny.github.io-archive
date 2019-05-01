@@ -20,5 +20,6 @@ list-of-topics: [
 
 {% include single-meeting.html  %}
 
-Challenges are hosted [here](http://overthewire.org/wargames/natas/)!
-Be sure to check out the slides for hints when stuck
+Natas is a collection of general and PHP web challenges hosted on OverTheWire. You'll learn broadly applicable skills that you can (legally) use on websites you use every day to make your life on the wild west of the internet a little better. The challenges are hosted [here](http://overthewire.org/wargames/natas/).
+
+If you get stuck, the slides have some hints. Have fun!
