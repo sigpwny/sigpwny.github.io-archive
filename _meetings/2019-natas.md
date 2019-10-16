@@ -1,5 +1,5 @@
 ---
-date:   2019-09-11:15:00 -0500
+date:   2019-09-11 21:15:00 -0500
 layout: meeting
 published: true # changeme to true!!!
 title:  "2019 Natas With Joseph"
