@@ -1,5 +1,5 @@
 ---
-date:   2019-1-31 21:15:00 -0500
+date:   2019-10-10 21:15:00 -0500
 layout: meeting
 published: false # changeme to true!!!
 title:  "2019 Intro to Crypto With Pranav"
