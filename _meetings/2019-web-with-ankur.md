@@ -2,13 +2,13 @@
 date:   2019-09-26 21:15:00 -0500
 layout: meeting
 published: true # changeme to true!!!
-title:  "2019 Intro To Webhacking with Ankur"
+title:  "2019 Intro To Web Hacking With Ankur"
 credit: "Ankur Sundara"
 slides: "https://docs.google.com/presentation/d/1dO4-EucU_gPnJZrLg8lzzQTLABzkAyZGfYVetWXKRzk/edit#slide=id.g20736d8f1a_0_0"
 link-to-assets: ""
 goal:"Teach students the basics of CRSF, XSS, and SQL attacks. Additionally, teach the teminology regarding basic web dev"
 how-to-run: [
-	"I dont know,",
+	"I dont know",
 	"I need to get this information from Ankur",
 	"Bother Ankur or Thomas in the sigpwny discord for info on how to run it"
 ]
