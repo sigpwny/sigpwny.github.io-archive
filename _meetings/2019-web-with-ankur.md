@@ -23,4 +23,5 @@ list-of-topics: [
 
 {% include single-meeting.html  %}
 Tonight we will be doing a web presentation! We are going to learn about 3 forms of web attacks and how to prevent against them. 
-We will also learn about some of the basic web teminology, such as HTTPS, DNS, GET/POST requests.
+We will also learn about some of the basic web teminology, such as HTTPS, DNS, GET/POST requests. 
+Simpler link is here https://docs.google.com/presentation/d/15YxJdcP99bn6sWzfqfh8LoZ-FrxWrkkWjol2FZXUECU/
