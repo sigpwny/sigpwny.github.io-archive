@@ -1,17 +1,37 @@
+html {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 body {
-	background: url(../images/background.png);
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background: url(../images/background.png) no-repeat center center fixed;;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 	background-size: cover;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+	display: none;
+  }
+  
+  /* Hide scrollbar for IE and Edge */
+body {
+	-ms-overflow-style: none;
+  }
+
+.margins {
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .banner {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-    width: 60%;
-    height: auto;
+	width: 60%;
+	height: auto;
 }
 
 .compdates {
@@ -23,7 +43,6 @@ body {
 	margin-right: auto;
 	text-align: center;
 	margin-top: 20px;
-
 }
 
 .title {
@@ -35,11 +54,10 @@ body {
 	margin-right: auto;
 	text-align: center;
 	margin-top: 100px;
-
 }
 
 h2 {
-	font-size: 60px!important;
+	font-size: 60px !important;
 }
 
 .aboutdesc {
@@ -55,13 +73,13 @@ h2 {
 	/* margin-top: 200px; */
 }
 
-@media only screen and (min-width:900px) {
+@media only screen and (min-width: 900px) {
 	.aboutdesc {
 		padding-left: 200px;
 		padding-right: 200px;
 	}
 }
-.aboutdescp{
+.aboutdescp {
 	font-family: 'animal_crossing';
 	font-size: 25px;
 	color: #6f4a29;
@@ -70,20 +88,17 @@ h2 {
 	margin-right: auto;
 	text-align: center;
 	/* margin-top: 200px; */
-
 }
 
 .devdesc {
 	margin-left: 400px;
 	margin-right: 400px;
 	display: block;
-
-	
 }
 
 .profile {
 	display: grid;
-	vertical-align: middle ;
+	vertical-align: middle;
 }
 
 .profile:hover {
@@ -91,15 +106,14 @@ h2 {
 }
 
 .avatar {
-	width: 100%px;
+	width: 100px;
 	height: 100px;
 	border-radius: 50%;
 	text-align: center;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-
-  }
+}
 
 .avatardesc {
 	font-family: 'animal_crossing';
@@ -110,7 +124,6 @@ h2 {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
-
 }
 
 .container {
@@ -118,7 +131,6 @@ h2 {
 	justify-content: center;
 	display: block;
 	margin-top: 20px;
-
 }
 
 .row {
@@ -135,6 +147,7 @@ h2 {
 	margin-right: auto;
 	text-align: center;
 	margin-top: 100px;
+	margin-bottom: 100px;
 }
 a.button1 {
 	display: inline-block;
@@ -157,7 +170,7 @@ a.button1:hover {
 	text-decoration: none;
 }
 
-@media all and (max-width:30em) {
+@media all and (max-width: 30em) {
 	a.button1 {
 		display: block;
 		margin: 0.4em auto;
@@ -171,22 +184,22 @@ a.button1:hover {
 
 @keyframes bouncy {
 	0% {
-		top: 0em
+		top: 0em;
 	}
 	40% {
-		top: 0em
+		top: 0em;
 	}
 	43% {
-		top: -0.9em
+		top: -0.9em;
 	}
 	46% {
-		top: 0em
+		top: 0em;
 	}
 	48% {
-		top: -0.4em
+		top: -0.4em;
 	}
 	50% {
-		top: 0em
+		top: 0em;
 	}
 	100% {
 		top: 0em;
@@ -194,19 +207,17 @@ a.button1:hover {
 }
 
 @font-face {
-    font-family: 'animal_crossing';
-    src: url('../webfontkit/animal-crossing-wild-world-webfont.woff2') format('woff2'),
-         url('../webfontkit/animal-crossing-wild-world-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+	font-family: 'animal_crossing';
+	src: url('../webfontkit/animal-crossing-wild-world-webfont.woff2') format('woff2'),
+		url('../webfontkit/animal-crossing-wild-world-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
 }
 
 @font-face {
-    font-family: 'debbyscript';
-    src: url('../webfontkit/debby-webfont.woff2') format('woff2'),
-         url('../webfontkit/debby-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+	font-family: 'debbyscript';
+	src: url('../webfontkit/debby-webfont.woff2') format('woff2'),
+		url('../webfontkit/debby-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
 }
