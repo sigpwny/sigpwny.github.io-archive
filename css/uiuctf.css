@@ -1,3 +1,4 @@
+/* Hex Color #fbdc9c */
 html {
 	margin-left: 10px;
 	margin-right: 10px;
@@ -78,7 +79,17 @@ h2 {
 		padding-left: 200px;
 		padding-right: 200px;
 	}
+	
 }
+
+.line1 {
+	margin-top: 45px!important;
+}
+
+.line2 {
+	margin-bottom: 45px!important;
+}
+
 .aboutdescp {
 	font-family: 'animal_crossing';
 	font-size: 25px;
@@ -113,7 +124,61 @@ h2 {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	box-shadow: 0px 0px 80px rgba(251,220,156);
 }
+
+.ml5 {
+	position: relative;
+	font-weight: 300;
+	font-size: 4.5em;
+	/* color: #402d2d; */
+  }
+  
+  .ml5 .text-wrapper {
+	position: relative;
+	display: inline-block;
+	padding-top: 0.1em;
+	padding-right: 0.05em;
+	padding-bottom: 0.15em;
+	line-height: 1em;
+  }
+  
+  .ml5 .line {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	height: 3px;
+	width: 100%;
+	background-color: #6f4a29;
+	transform-origin: 0.5 0;
+  }
+  
+.topbutton {
+	margin-bottom: -20px!important;
+}
+.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+  .ml5 .ampersand {
+	font-family: Baskerville, serif;
+	font-style: italic;
+	font-weight: 400;
+	width: 1em;
+	margin-right: -0.1em;
+	margin-left: -0.1em;
+  }
+  
+  .ml5 .letters {
+	display: inline-block;
+	opacity: 0;
+  }
+
 
 .avatardesc {
 	font-family: 'animal_crossing';
