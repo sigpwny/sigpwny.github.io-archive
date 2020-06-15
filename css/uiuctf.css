@@ -1,3 +1,4 @@
+/* Hex Color #fbdc9c */
 html {
 	margin-left: 10px;
 	margin-right: 10px;
@@ -123,6 +124,7 @@ h2 {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	box-shadow: 0px 0px 80px rgba(251,220,156);
 }
 
 .ml5 {
