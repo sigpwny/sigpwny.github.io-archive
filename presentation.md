@@ -226,4 +226,5 @@ presentations: [
 | :------- | ---: |
 {% for presentation in presentations reversed -%}
 | [{{ presentation.title }}]({{ presentation.link }}) | {{ presentation.date | date_to_string }} |
+||
 {% endfor %}
