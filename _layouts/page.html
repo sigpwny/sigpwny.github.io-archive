@@ -5,7 +5,16 @@ layout: default
 <div class="container mb-5">
   <div class="row">
     <div class="col panel mt-5">
-      <h2 class="my-5 header">{{ page.title }}</h2>
+      <div class="row">
+        <div class="col align-right">
+          <img src="{{ site.baseurl }}/images/logo.png" class="rounded my-1" height="115" width="100"/>
+        </div>
+        <div class="col">
+          <h2 class="my-5 header">{{ page.title }}</h2>
+        </div>
+        <div class="col">
+        </div>
+      </div>
       <ul>
         {% for bullet in page.notes%}
         <li>{{ bullet }}</li>

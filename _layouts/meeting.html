@@ -5,12 +5,25 @@ layout: default
 <div class="container mb-5">
   <div class="row">
     <div class="col panel mt-5">
-      <h2 class="my-5 header">{{ page.title }}</h2>
+      <div class="row">
+        <div class="col align-right">
+          <img src="{{ site.baseurl }}/images/logo.png" class="rounded my-1" height="115" width="100"/>
+        </div>
+        <div class="col">
+          <h2 class="my-5 header">{{ page.title }}</h2>
+        </div>
+        <div class="col">
+        </div>
+      </div>
+
+      {% if page.credit %}
       <p class="lead"> Author: {{ page.credit }} </p>
+      {% endif %}
+
       <a class="mr-3" href='{{ page.slides }}'>Slides</a>
       {% if page.link-to-assets != "" %}
-        <a href='{{ page.link-to-assets}}'>Required Files</a>
-        <br>
+      <a href='{{ page.link-to-assets}}'>Required Files</a>
+      <br>
       {% endif %}
 
       <hr/>
@@ -22,11 +35,11 @@ layout: default
 
       <h4>Topics Covered:</h4>
       <div>
-      	<ul>
-      		{% for topic in page.list-of-topics %}
-      		<li>{{ topic }}</li>
-      		{% endfor %}
-      	</ul>
+        <ul>
+          {% for topic in page.list-of-topics %}
+          <li>{{ topic }}</li>
+          {% endfor %}
+        </ul>
       </div>
       <br>
 
@@ -34,15 +47,15 @@ layout: default
       {% if page.how-to-run != "" %}
       <h4>How to Run this meeting:</h4>
       <div>
-      	<ul>
-      		{% for bullet in page.how-to-run %}
-      		<li>{{ bullet }}</li>
-      		{% endfor %}
-      	</ul>
+        <ul>
+          {% for bullet in page.how-to-run %}
+          <li>{{ bullet }}</li>
+          {% endfor %}
+        </ul>
       </div>
       <br>
       {% endif %}
-      
+
       <h4>Description:</h4>
       {{ content }}
 
