@@ -3,6 +3,11 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://drive.google.com/file/d/13EkyNgQuERUNaDrhUu-K6nTfm5oYzBE9/view?usp=sharing",
+    title: "Heap Exploitation with Ravi",
+    date: "2020-01-29",
+  },
+  {
     link: "https://docs.google.com/presentation/d/1hQLtV6Rcu1aum4q2kGEd8cwOTAIzj4NqEu4mPeY_JZA/edit?usp=sharing",
     title: "Web Hacking with Noelle",
     date: "2020-12-03",
