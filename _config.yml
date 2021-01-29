@@ -1,0 +1,14 @@
+meeting_time: "18:00-19:00 CDT"
+meeting_location: "Zoom (join Discord to get link)"
+
+title: SIGPwny
+baseurl: /sigpwny
+twitter_username: SIGPwny
+github_username: sigpwny
+facebook_link: https://www.facebook.com/groups/439995656109426
+discord_link: https://discord.gg/cWcZ6a9
+
+collections: 
+  meetings:
+    output: true
+    permalink: /:collection/:path
