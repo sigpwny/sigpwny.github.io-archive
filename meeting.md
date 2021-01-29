@@ -8,6 +8,6 @@ title: Meetings
 {% assign meetings = site.meetings | sort: "date" %}
 {% for meeting in meetings %}
 {% if meeting.published %}
-- #### [{{ meeting.title }}]({{site.baseurl }}/{{ meeting.url }})
+- #### [{{ meeting.title }}]({{ site.baseurl }}{{ meeting.url }})
 {% endif %}
 {% endfor %}
