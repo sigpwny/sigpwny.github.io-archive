@@ -1,0 +1,111 @@
+---
+---
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
+
+$twitter:        #6DABDA;
+$facebook:       #365899;
+$github:         #F6C2A4;
+$discord:        #7289DA;
+
+
+$darker:         #21211E;
+$dark:           #2D2D29;
+$medium:         #3B3B35;
+$light-medium:   #969696;
+$dark-blue:      #215A6D;
+$light-blue:     #4EA2A2;
+$green:          #10b923;
+$light:          #DFECE6;
+$white:          #FFFFFF;
+$dark-purple:    #300030;
+$medium-purple:  #480048;
+$regular-purple: #601848;
+$red:            #C04848;
+$orange:         #F07241;
+
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  font-family: 'Monospace';
+  font-weight: 300;
+  background-color: $dark;
+  color: $white;
+  height: 100%;
+  width: 100%
+}
+
+hr {
+  border-color: $light-medium;
+}
+
+a, a:active {
+  color: lime;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $green;
+  text-decoration: none;
+}
+
+.panel {
+  background-color: $medium;
+  padding-top: 10px;
+  padding-bottom: 35px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 20px;
+  box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.2);
+  border-left: 8px solid $green;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+
+  .embedded-image {
+    margin-top: -110px;
+    text-align: center;
+  }
+}
+
+.header {
+  text-align: center;
+}
+
+
+.links {
+  text-align: center;
+
+  .fab {
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    transition: 0.3s;
+    color: $white;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .fa-discord:hover {
+    color: $discord;
+  }
+
+  .fa-twitter:hover {
+    color: $twitter;
+  }
+
+  .fa-facebook:hover {
+    color: $facebook;
+  }
+
+  .fa-github-alt:hover {
+    color: $github;
+  }
+}
+
+.navbar.transparent.navbar-inverse .navbar-inner {
+  background: rgba(0,0,0,0.4);
+}
