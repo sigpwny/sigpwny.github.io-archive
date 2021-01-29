@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  <title>{{ page.title }}</title>
+
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          {% include nav.html %}
+        </div>
+      </div>
+    </div>
+
+    {{ content }}
+
+    {% include foot.html %}
+
+  </body>
+</html>
