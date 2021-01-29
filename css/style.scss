@@ -30,7 +30,6 @@ html {
 
 body {
   font-family: 'Montserrat';
-  font-weight: 300;
   background-color: $dark;
   color: $white;
   height: 100%;
@@ -51,6 +50,10 @@ hr {
 
 table {
   width: 100%;
+}
+
+strong {
+  font-weight: bold;
 }
 
 a, a:active {
@@ -118,3 +121,4 @@ a:hover {
 .navbar.transparent.navbar-inverse .navbar-inner {
   background: rgba(0,0,0,0.4);
 }
+

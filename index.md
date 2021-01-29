@@ -7,4 +7,5 @@ layout: default
   {% include welcome.html %}
   {% include join.html %}
   {% include resource.html %}
+  {% include sponsorship.html %}
 </div>

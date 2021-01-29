@@ -6,7 +6,18 @@ layout: default
   <div class="row">
     <div class="col panel mt-5">
       <h2 class="my-5 header">{{ page.title }}</h2>
+      <ul>
+        {% for bullet in page.notes%}
+        <li>{{ bullet }}</li>
+        {% endfor %}
 
+        {% if page.location %}
+        <br><i class="fas fa-fw fa-map-marker-alt"></i> <p class="d-inline"> {{ page.location }}</p>
+        {% endif %}
+        {% if page.time %}
+        <br><i class="fas fa-fw fa-clock"></i> <p class="d-inline"> {{ page.time }}</p>
+        {% endif %}
+      </ul>
       <hr/>
       <br>
 
