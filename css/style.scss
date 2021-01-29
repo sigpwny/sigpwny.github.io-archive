@@ -1,8 +1,6 @@
 ---
 ---
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
-@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
 
 $twitter:        #6DABDA;
 $facebook:       #365899;
@@ -31,12 +29,20 @@ html {
 }
 
 body {
-  font-family: 'Monospace';
+  font-family: 'Montserrat';
   font-weight: 300;
   background-color: $dark;
   color: $white;
   height: 100%;
   width: 100%
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
 }
 
 hr {
@@ -46,6 +52,7 @@ hr {
 a, a:active {
   color: lime;
   text-decoration: none;
+  font-size: 20px;
 }
 
 a:hover {
@@ -67,7 +74,6 @@ a:hover {
   margin-right: auto;
 
   .embedded-image {
-    margin-top: -110px;
     text-align: center;
   }
 }
@@ -75,7 +81,6 @@ a:hover {
 .header {
   text-align: center;
 }
-
 
 .links {
   text-align: center;
