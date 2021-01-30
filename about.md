@@ -21,8 +21,9 @@ members: [
       <hr/>
 
       <p>
-        SIGPwny is spelled SIGPwny, but some alums might remember it as SIGPony.
-        SIGPwny was originally named SIGMil. SIGMil was founded around 2002, and reborn as SIGPwny around 2011.
+        SIGPwny is canonically spelled SIGPwny, but some alums might remember it as SIGPony.
+        The club was originally named SIGMil, which was founded around
+		2002, and reborn as SIGPwny around 2011.
       </p>
     </div>
   </div>
