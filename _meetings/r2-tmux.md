@@ -3,7 +3,7 @@ date:   2019-1-31 21:15:00 -0500
 layout: meeting
 published: true # changeme to true!!!
 title:  "r2 and tmux"
-credit: ""
+credit: 
 slides: "https://docs.google.com/presentation/d/1vrQ5t6dELw74DJ8SWlaGkctPpThrjOd6gFDDUyckcSk/edit?usp=sharing"
 link-to-assets: ""
 goal: "Demonstrate r2 and tmux, a disassembler tool and multitasking tool."
