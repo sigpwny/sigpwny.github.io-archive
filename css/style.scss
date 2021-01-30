@@ -85,6 +85,23 @@ a:hover {
   }
 }
 
+.card {
+  background-color: $medium;
+  border: 0px;
+  min-width: 40%;
+  min-height: 30%;
+  .member-image {
+    text-align: center;
+    img {
+      border: 2px solid $green;
+    }
+  }
+
+  a {
+    color: $white;
+  }
+}
+
 .header {
   text-align: center;
 }
