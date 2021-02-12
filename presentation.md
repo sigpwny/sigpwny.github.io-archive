@@ -4,7 +4,7 @@ title: Presentations
 presentations: [
   {
     link: "https://docs.google.com/presentation/d/1AINmKI21pyh-rOMkLmXm_5nqzNbL8YO6XNZX2Q1b420/",
-    title: "Path Traversal and SSRF With Ankuyr",
+    title: "Path Traversal and SSRF With Ankur and Ian",
     date: "2021-02-11",
   },
   {
