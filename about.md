@@ -3,15 +3,18 @@ layout: default
 title: About
 members: [
   {
-    name    : "Nicholas Sebastian Husin",
-    picture : "https://nicholas.sh/images/profile.jpg",
-    link    : "https://nicholas.sh",
-  },
-  {
     name    : "Thomas Quig",
     picture : "https://quig.dev/fs/photos/sunflower-pfp.jpg",
     link    : "https://quig.dev/simple",
+    role    : "President",
+  },
+  {
+    name    : "Nicholas Sebastian Husin",
+    picture : "https://nicholas.sh/images/profile.jpg",
+    link    : "https://nicholas.sh",
+    role    : "Officer/Website",
   }
+  
 ]
 ---
 
@@ -43,7 +46,7 @@ members: [
         <a href="{{ member.link }}">
           <div class="member-image">
             <img src="{{ member.picture }}" class="rounded-circle my-3" height="150" width="150"/>
-            <h4 class="mx-3">{{ member.name }}</h4>
+            <h4 class="mx-3">{{ member.name }} - {{ member.role }}</h4>
           </div>
         </a>
       </div>
