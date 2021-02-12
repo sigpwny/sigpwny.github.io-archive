@@ -7,14 +7,15 @@ members: [
     picture : "https://quig.dev/fs/photos/sunflower-pfp.jpg",
     link    : "https://quig.dev/",
     role    : "President",
+    order   : 0,
   },
   {
     name    : "Nicholas S. Husin",
     picture : "https://nicholas.sh/images/profile.jpg",
     link    : "https://nicholas.sh",
     role    : "Officer",
-  }
-  
+    order   : 1,
+  },
 ]
 ---
 
@@ -40,17 +41,20 @@ members: [
     <h2 class="my-5 header"> Our Members </h2>
     <hr/>
     <div class="row d-flex justify-content-center">
-    {% assign members = page.members | sort: "name" %}
-    {% for member in members %}
-      <div class="card m-3">
-        <a href="{{ member.link }}">
-          <div class="member-image">
-            <img src="{{ member.picture }}" class="rounded-circle my-3" height="150" width="150"/>
-            <h4 class="mx-3">{{ member.name }}</h4>
-            <p class="mx-3">{{ member.role }}</p>
-          </div>
-        </a>
-      </div>
+    {% assign groups = page.members | group_by: "order" | sort: "name" %}
+    {% for group in groups %}
+      {% assign members = group.items | sort: "name" %}
+      {% for member in members %}
+        <div class="card m-3">
+          <a href="{{ member.link }}">
+            <div class="member-image">
+              <img src="{{ member.picture }}" class="rounded-circle my-3" height="150" width="150"/>
+              <h4 class="mx-3">{{ member.name }}</h4>
+              <p class="mx-3">{{ member.role }}</p>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
     {% endfor %}
     </div>
   </div>
