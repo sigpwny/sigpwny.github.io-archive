@@ -9,7 +9,7 @@ members: [
     role    : "President",
   },
   {
-    name    : "Nicholas Sebastian Husin",
+    name    : "Nicholas S. Husin",
     picture : "https://nicholas.sh/images/profile.jpg",
     link    : "https://nicholas.sh",
     role    : "Officer/Website",
