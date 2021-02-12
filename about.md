@@ -5,7 +5,7 @@ members: [
   {
     name    : "Thomas Quig",
     picture : "https://quig.dev/fs/photos/sunflower-pfp.jpg",
-    link    : "https://quig.dev/simple",
+    link    : "https://quig.dev/",
     role    : "President",
   },
   {
