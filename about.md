@@ -7,6 +7,11 @@ members: [
     picture : "https://nicholas.sh/images/profile.jpg",
     link    : "https://nicholas.sh",
   },
+  {
+    name    : "Thomas Quig",
+    picture : "https://quig.dev/fs/photos/sunflower-pfp.jpg",
+    link    : "https://quig.dev/simple",
+  }
 ]
 ---
 

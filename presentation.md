@@ -3,6 +3,11 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://docs.google.com/presentation/d/1AINmKI21pyh-rOMkLmXm_5nqzNbL8YO6XNZX2Q1b420/",
+    title: "Path Traversal and SSRF With Ankuyr",
+    date: "2021-02-11",
+  },
+  {
     link: "https://drive.google.com/file/d/13EkyNgQuERUNaDrhUu-K6nTfm5oYzBE9/view?usp=sharing",
     title: "Heap Exploitation with Ravi",
     date: "2021-01-29",
