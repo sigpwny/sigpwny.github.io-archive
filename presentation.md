@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 presentations: [
   {
-    link: "https://github.com/sigpwny/meeting-content/blob/master/heap2.pdf",
+    link: "https://sigpwny.github.io/presentation-content/heap2.pdf",
     title: "Heap Exploitation 2 with Ravi",
     date: "2021-02-18",
   },
@@ -13,7 +13,7 @@ presentations: [
     date: "2021-02-11",
   },
   {
-    link: "https://drive.google.com/file/d/13EkyNgQuERUNaDrhUu-K6nTfm5oYzBE9/view?usp=sharing",
+    link: "https://sigpwny.github.io/presentation-content/heap1.pdf",
     title: "Heap Exploitation with Ravi",
     date: "2021-01-29",
   },
