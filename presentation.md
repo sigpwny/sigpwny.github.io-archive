@@ -3,6 +3,11 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://github.com/sigpwny/meeting-content/blob/master/heap2.pdf",
+    title: "Heap Exploitation 2 with Ravi",
+    date: "2021-02-18",
+  },
+  {
     link: "https://docs.google.com/presentation/d/1AINmKI21pyh-rOMkLmXm_5nqzNbL8YO6XNZX2Q1b420/",
     title: "Path Traversal and SSRF With Ankur and Ian",
     date: "2021-02-11",
