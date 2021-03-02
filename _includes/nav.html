@@ -1,6 +1,6 @@
 <ul class="nav justify-content-center m-4">
   <li class="nav-item">
-    <a class="nav-link" href="{{ site.baseurl }}/"><h4>SIGPwny</h4></a>
+    <a class="nav-link" href="{{ site.baseurl }}/"><h4 id="title_for_random">SIGPwny</h4></a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="{{ site.baseurl }}/presentation"><h4>Presentations</h4></a>
@@ -15,3 +15,11 @@
     <a class="nav-link" href="{{ site.baseurl }}/about"><h4>About</h4></a>
   </li>
 </ul>
+<script>
+  var n = Math.floor(Math.random() * 100 );
+  if (n > 98)
+  {
+    document.querySelector("#title_for_random").innerHTML = "SIPGwny";
+    console.log("SIPGwny!");
+  }
+</script>
