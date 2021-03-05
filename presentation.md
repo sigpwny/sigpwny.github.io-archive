@@ -3,6 +3,11 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/global_offset_table.pdf",
+    title: "Global Offset Table with Justin",
+    date: "2021-03-04",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/sandbox_escape.pdf",
     title: "Sandbox Escape with Nathan and Husnain",
     date: "2021-02-25",
