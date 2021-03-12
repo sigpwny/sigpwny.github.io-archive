@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 presentations: [
   {
-    link: "https://sigpwny.github.io/presentation-content/sp21_intro_to_crypto.pdf",
+    link: "https://sigpwny.github.io/presentation-content/basics_of_crypto.pdf",
     title: "Cryptography with Sam",
     date: "2021-03-11",
   },
