@@ -243,7 +243,7 @@ presentations: [
     date: "2018-09-20",
   },
   {
-    link: "https://sigpwny.github.io/presentation-content/FA2018/sigpwny_intro_meeting",
+    link: "https://sigpwny.github.io/presentation-content/FA2018/sigpwny_intro_meeting.pdf",
     title: "Intro Meeting: Fall 2018",
     date: "2018-09-06",
   },
