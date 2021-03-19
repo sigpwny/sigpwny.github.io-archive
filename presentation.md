@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 presentations: [
   {
-    link: "https://sigpwny.github.io/presentation-content/SP2021/reverse_engineering.pdf"
+    link: "https://sigpwny.github.io/presentation-content/SP2021/reverse_engineering.pdf",
     title: "Reverse Engineering Tools with Nate",
     date: "2021-03-18",
   },
