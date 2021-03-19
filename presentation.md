@@ -85,7 +85,7 @@ presentations: [
   {
     link: "https://sigpwny.github.io/presentation",
     title: "Lockpicking with Everyone (No Slides)",
-    date: "2020-27-20",
+    date: "2020-02-27",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/SP2020/bash.pdf",
