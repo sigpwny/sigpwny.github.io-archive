@@ -3,6 +3,11 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation",
+    title: "First SIGPwny Pwny Racing Event! (No Slides)",
+    date: "2021-03-25",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/SP2021/reverse_engineering.pdf",
     title: "Reverse Engineering Tools with Nate",
     date: "2021-03-18",
@@ -121,6 +126,11 @@ presentations: [
     link: "https://sigpwny.github.io/presentation-content/FA2019/forensics.pdf",
     title: "Intro to Forensics with Pranav",
     date: "2019-10-31",
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2019/recursive.pdf",
+    title: "How to run SIGPwny Meetings with Thomas",
+    date: "2019-10-24",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2019/opsec.pdf",
