@@ -3,6 +3,11 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation/FA2019/recursive.pdf",
+    title: "How to run SIGPwny meetings with Thomas",
+    date: "2021-04-01",
+  },
+  {
     link: "https://sigpwny.github.io/presentation",
     title: "First SIGPwny Pwny Racing Event! (No Slides)",
     date: "2021-03-25",
