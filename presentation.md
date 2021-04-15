@@ -3,12 +3,12 @@ layout: page
 title: Presentations
 presentations: [
   {
-    link: "https://sigpwny.github.io/presentation/SP2021/docker.pdf",
+    link: "https://sigpwny.github.io/presentation-content/SP2021/docker.pdf",
     title: "Docker with Faisal",
     date: "2021-04-15",
   },
   {
-    link: "https://sigpwny.github.io/presentation/SP2021/recursive.pdf",
+    link: "https://sigpwny.github.io/presentation-content/SP2021/recursive.pdf",
     title: "How to run SIGPwny meetings with Thomas",
     date: "2021-04-01",
   },
