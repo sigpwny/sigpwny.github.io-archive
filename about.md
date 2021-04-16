@@ -4,7 +4,7 @@ title: About
 members: [
   {
     name    : "Thomas Quig",
-    picture : "https://quig.dev/fs/photos/sunflower-pfp.jpg",
+    picture : "https://quig.dev/cdn/photos/glitch-crop.gif",
     link    : "https://quig.dev/",
     role    : "President",
     order   : 0,
