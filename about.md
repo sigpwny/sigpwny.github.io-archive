@@ -3,19 +3,54 @@ layout: default
 title: About
 members: [
   {
-    name    : "Thomas Quig",
+    name    : "Thomas",
     picture : "https://quig.dev/cdn/photos/glitch-crop.gif",
     link    : "https://quig.dev/",
-    role    : "President",
+    role    : "President (Current)",
     order   : 0,
+    current    : True,
   },
   {
-    name    : "Nicholas S. Husin",
+    name    : "Nicholas",
     picture : "https://nicholas.sh/images/profile.jpg",
     link    : "https://nicholas.sh",
     role    : "Officer",
     order   : 1,
+    current    : True,
   },
+  {
+    name    : "ravi",
+    picture : "https://avatars.githubusercontent.com/u/36464332",
+    link    : "https://github.com/jprx",
+    role    : "Former President (2019-2020)",
+    order   : 2,
+    current    : False,
+  },
+  {
+    name    : "kuilin",
+    picture : "https://kuilin.net/profile_upscaled.png",
+    link    : "https://kuilin.net",
+    role    : "Officer",
+    order   : 3,
+    current    : False,
+  },
+  {
+    name    : "Husnain",
+    picture : "https://klatz.co/images/arrow.png",
+    link    : "https://github.com/epistemologist",
+    role    : "Officer",
+    order   : 4,
+    current    : True,
+  },
+  {
+    name    : "Ian",
+    picture : "https://klatz.co/images/arrow.png",
+    link    : "https://klatz.co",
+    role    : "Former President (2017-2018)",
+    order   : 5,
+    current    : False,
+  }
+  
 ]
 ---
 
@@ -30,7 +65,7 @@ members: [
       <hr/>
 
       <p>
-        SIGPwny is canonically spelled SIGPwny, but some alums might remember it as SIGPony.
+        SIGPwny is canonically spelled SIGPwny, but some currents might remember it as SIGPony.
         The club was originally named SIGMil, which was founded around
 		2002, and reborn as SIGPwny around 2011.
       </p>
