@@ -30,7 +30,7 @@ members: [
     name    : "kuilin",
     picture : "https://kuilin.net/profile_upscaled.png",
     link    : "https://kuilin.net",
-    role    : "Officer",
+    role    : "Infra Admin",
     order   : 3,
     current    : False,
   },
@@ -92,6 +92,7 @@ members: [
       {% endfor %}
     {% endfor %}
     </div>
+    <h2 class="my-5 header"> and 500+ more! </h2>
   </div>
 </div>
 
