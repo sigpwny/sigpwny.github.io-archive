@@ -74,6 +74,11 @@ presentations: [
   },
   {
     link: "https://sigpwny.github.io/presentation-content/FA2020/binary_exploitation.pdf",
+    title: "Bin Exp (Continued) With Ravi, Chris, Nathan, and Thomas",
+    date: "2020-10-22",
+  },
+  {
+    link: "https://sigpwny.github.io/presentation-content/FA2020/binary_exploitation.pdf",
     title: "Binary Exploitation 101 With Ravi, Chris, Nathan, and Thomas",
     date: "2020-10-15",
   },
