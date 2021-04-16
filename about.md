@@ -36,7 +36,7 @@ members: [
   },
   {
     name    : "Husnain",
-    picture : "https://klatz.co/images/arrow.png",
+    picture : "https://avatars.githubusercontent.com/u/12467423",
     link    : "https://github.com/epistemologist",
     role    : "Officer",
     order   : 4,
