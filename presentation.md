@@ -98,6 +98,11 @@ presentations: [
     date: "2020-09-17",
   },
   {
+    link: "https://sigpwny.github.io/presentation-content/SP2020/java_reversing.pdf",
+    title: "Java Reverse Engineering With Nathan",
+    date: "2020-04-02",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/SP2020/sql_injection.pdf",
     title: "SQL Injection with Grace",
     date: "2020-03-05",
