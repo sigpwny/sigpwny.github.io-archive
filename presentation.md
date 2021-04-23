@@ -3,6 +3,11 @@ layout: page
 title: Presentations
 presentations: [
   {
+    link: "https://sigpwny.github.io/presentation-content/SP2021/chal_dev.pdf",
+    title: "How to make CTF Challenges W Thomas (No video, we did PWNY Racing)",
+    date: "2021-04-22",
+  },
+  {
     link: "https://sigpwny.github.io/presentation-content/SP2021/docker.pdf",
     title: "Docker with Faisal",
     date: "2021-04-15",
