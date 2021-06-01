@@ -1,39 +1,49 @@
 ---
 ---
+
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
-$twitter:        #6DABDA;
-$facebook:       #365899;
-$github:         #F6C2A4;
-$discord:        #7289DA;
+$twitter: #6dabda;
+$facebook: #365899;
+$github: #f6c2a4;
+$discord: #7289da;
 
-
-$darker:         #21211E;
-$dark:           #2D2D29;
-$medium:         #3B3B35;
-$light-medium:   #969696;
-$dark-blue:      #215A6D;
-$light-blue:     #4EA2A2;
-$green:          #10b923;
-$light:          #DFECE6;
-$white:          #FFFFFF;
-$dark-purple:    #300030;
-$medium-purple:  #480048;
+$darker: #21211e;
+$dark: #2d2d29;
+$medium: #3b3b35;
+$light-medium: #969696;
+$dark-blue: #215a6d;
+$light-blue: #4ea2a2;
+$green: #10b923;
+$light: #dfece6;
+$white: #ffffff;
+$dark-purple: #300030;
+$medium-purple: #480048;
 $regular-purple: #601848;
-$red:            #C04848;
-$orange:         #F07241;
-
+$red: #c04848;
+$orange: #f07241;
+$lime: #00ff00;
 
 html {
   overflow-x: hidden;
 }
 
+.writeup-fixed-cols {
+  table {
+    td:nth-of-type(1) {
+      width: 80%;
+    }
+    td:nth-of-type(2) {
+      width: 20%;
+    }
+  }
+}
 body {
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   background-color: $dark;
   color: $white;
   height: 100%;
-  width: 100%
+  width: 100%;
 }
 
 p {
@@ -56,8 +66,9 @@ strong {
   font-weight: bold;
 }
 
-a, a:active {
-  color: lime;
+a,
+a:active {
+  color: $lime;
   text-decoration: none;
   font-size: 18px;
 }
@@ -136,6 +147,5 @@ a:hover {
 }
 
 .navbar.transparent.navbar-inverse .navbar-inner {
-  background: rgba(0,0,0,0.4);
+  background: rgba(0, 0, 0, 0.4);
 }
-
