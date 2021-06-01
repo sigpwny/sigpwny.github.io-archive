@@ -731,6 +731,8 @@ writeups: [
   }
 ]
 ---
+For UIUCTF 2020 we paid out $1,600 in writeup prizes. Here are the writeups that won.
+
 <div class="writeup-fixed-cols" markdown="block">
 
 | Challenge | Author |
