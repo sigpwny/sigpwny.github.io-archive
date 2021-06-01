@@ -7,7 +7,7 @@ github_username: sigpwny
 facebook_link: https://www.facebook.com/groups/439995656109426
 discord_link: https://discord.gg/cWcZ6a9
 
-collections: 
+collections:
   meetings:
     output: true
     permalink: /:collection/:path
@@ -17,7 +17,9 @@ collections:
   redirects:
     output: true
     permalink: /:path
-
+  writeups:
+    output: true
+    permalink: /:collection/:path
 
 markdown: kramdown
 kramdown:
