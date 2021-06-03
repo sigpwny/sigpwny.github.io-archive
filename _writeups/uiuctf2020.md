@@ -731,6 +731,9 @@ writeups: [
   }
 ]
 ---
+<meta name="og:title" content="UIUCTF 2020 Writeups" />
+    <meta name="og:description" content="For UIUCTF 2020 we paid out $1,600 in writeup prizes. We were inspired by GoogleCTF’s writeup prizes. We prioritize concise technical communication and writeups that are fun to read and learn from, including those written from/for the perspective of beginners. Here are the writeups that won." />
+    <meta name="og:image" content="http://sigpwny.com/logo/transparent-smol.png" />
 For UIUCTF 2020 we paid out $1,600 in writeup prizes. We were inspired by GoogleCTF's writeup prizes. We prioritize concise technical communication and writeups that are fun to read and learn from, including those written from/for the perspective of beginners. Here are the writeups that won.
 
 <div class="writeup-fixed-cols" markdown="block">
