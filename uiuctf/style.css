@@ -1,0 +1,160 @@
+body {
+  background-color: #000;
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.header {
+  font-family: Monoton;
+  font-size: 50px;
+  word-spacing: 15px;
+  color: #fff;
+  text-align: center;
+}
+.flicker-5 {
+  animation: flicker 5s infinite alternate;
+}
+.flicker-6 {
+  animation: flicker 6s infinite alternate;
+}
+.flicker-7 {
+  animation: flicker 7s infinite alternate;
+}
+.flicker-8 {
+  animation: flicker 8s infinite alternate;
+}
+.flicker-9 {
+  animation: flicker 9s infinite alternate;
+}
+
+.subheader {
+  font-family: Monospace;
+  font-size: 30px;
+  color: #fff;
+  text-align: center;
+}
+
+@keyframes flicker {
+  0%,
+  18%,
+  22%,
+  25%,
+  53%,
+  57%,
+  100% {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #561990,
+      0 0 40px #561990, 0 0 50px #561990, 0 0 60px #561990;
+  }
+
+  20%,
+  24%,
+  55% {
+    text-shadow: none;
+  }
+}
+
+.standard-text {
+  font-family: Monospace;
+  font-size: 25px;
+  text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+  color: #fff;
+}
+
+.small-text {
+  font-family: Monospace;
+  font-size: 20px;
+  text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+  color: #fff;
+}
+
+.container {
+  text-align: center;
+  min-width: 500px;
+}
+
+.logo {
+  max-width: 500px;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0);
+  border: 0px;
+  min-width: 30%;
+  min-height: 30%;
+}
+
+.team-image {
+  border: 2px solid #d658e8;
+}
+
+a:hover {
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.gradient {
+  background-image: rgb(126, 172, 235);
+  background-image: linear-gradient(
+    90deg,
+    rgba(126, 172, 235, 1) 0%,
+    rgba(135, 255, 212, 1) 15%,
+    rgba(232, 255, 164, 1) 50%,
+    rgba(135, 255, 212, 1) 85%,
+    rgba(126, 172, 235, 1) 100%
+  );
+  filter: blur(0.3px);
+  align: center;
+  height: 5px;
+}
+
+.glow-link {
+  font-family: Monospace;
+  text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+  font-size: 30px;
+  padding: 5px 20px;
+  color: #fff;
+  text-decoration: none;
+  transition: 0.5s;
+  border: 2px solid #fff;
+}
+
+.glow-link:hover {
+  background: #d658e8;
+  color: #fff;
+  opacity: 1;
+  border: 2px solid #d658e8;
+  box-shadow: 0 0 5px #d658e8, 0 0 25px #d658e8, 0 0 50px #d658e8,
+    0 0 200px #d658e8;
+}
+
+.glow-link-active {
+  opacity: 0;
+  position: absolute;
+  top: -5;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 334px;
+  font-family: Monospace;
+  text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+  font-size: 30px;
+  padding: 5px 20px;
+  text-decoration: none;
+  transition: 0.5s;
+  border: 2px solid #d658e8;
+  background: #d658e8;
+  box-shadow: 0 0 5px #d658e8, 0 0 25px #d658e8, 0 0 50px #d658e8,
+    0 0 200px #d658e8;
+  color: #fff !important;
+}
+
+.glow-link-active:hover {
+  opacity: 1;
+}
+
+.tooltip-big-text {
+  --balloon-font-size: 18px;
+}
