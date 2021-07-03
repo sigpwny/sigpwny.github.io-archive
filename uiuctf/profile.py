@@ -1,5 +1,11 @@
 import os
 
+# reads profile.txt
+# fetches pfps from internet
+# stores in dir
+# codegens html and prints it to stdout
+# resizes pictures
+
 profiles = open('profile.txt', 'r').readlines()
 
 for line in sorted(profiles, key=lambda x: x.split(',')[1].lower()):

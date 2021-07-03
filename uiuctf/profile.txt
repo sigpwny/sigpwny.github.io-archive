@@ -1,15 +1,21 @@
 I had to learn CSS to make this page :(, Nicholas Husin, https://nicholas.sh, https://nicholas.sh/images/profile.jpg
-, Ankur, https://twitter.com/ankursundara, https://cdn.discordapp.com/avatars/181927679195480064/a_210721d68d3b796130b55ebcb18390fb.gif
-, YiFei Zhu, https://github.com/zhuyifei1999/, https://cdn.discordapp.com/attachments/858377164756221992/858379853312425994/yifei.png
-, WhiteHoodHacker, https://twitter.com/WhiteHoodHacker, https://cdn.discordapp.com/avatars/387289660675588098/626b546cdc6be749a4eea38f713ec9c1.png
-, ian5v, https://klatz.co/, https://cdn.discordapp.com/avatars/143425850753286145/a_cde2798264d4ca6d84c6e2cba09e3b46.gif
-, Thomas Quig, https://quig.dev/, https://quig.dev/cdn/photos/glitch-crop.gif
-, Rohan Sreenivasan, https://github.com/rohansreenivasan5/, https://media.discordapp.net/attachments/858377164756221992/858380899984474152/unknown.png
-, Joseph Ravichandran, https://github.com/jprx, https://raw.githubusercontent.com/sigpwny/sigpwny.github.io/c58e51c87783caee6bca08751995c4068a348a5d/images/UIUCTF/avatar_9.jpg
-, Pete Stenger, https://stenger.io/, https://cdn.discordapp.com/avatars/191210435746201600/639cd04f8b4f6722a8fd514c088a350d.png
-, Hassam Uddin, https://www.hassamuddin.com/, https://cdn.discordapp.com/attachments/315840860120023040/858520381793894410/unknown.png
-, Kevin Higgs, https://kevinhiggs.com/, https://cdn.discordapp.com/avatars/294245609744105474/f9214f9a2fb2aaa17f6504b989705817.png
-, Michael, https://github.com/mchang9607, https://cdn.discordapp.com/attachments/315840860120023040/858520227083583498/unknown.png
-, Anakin Dey, https://github.com/Spamakin, https://avatars.githubusercontent.com/u/60445095?v=4
-, Pranav Goel, https://www.pranavgoel.com, https://cdn.discordapp.com/attachments/315840860120023040/858492399449800754/unknown.png
-, Chris, https://twitter.com/2much4ux, https://pbs.twimg.com/profile_images/759930435824594944/sOQJg_Ng_400x400.jpg
+will beat you in Overwatch, Ankur, https://twitter.com/ankursundara, https://cdn.discordapp.com/avatars/181927679195480064/a_210721d68d3b796130b55ebcb18390fb.gif
+kernel god, YiFei Zhu, https://github.com/zhuyifei1999/, https://cdn.discordapp.com/attachments/858377164756221992/858379853312425994/yifei.png
+actually it's beige, WhiteHoodHacker, https://twitter.com/WhiteHoodHacker, https://cdn.discordapp.com/avatars/387289660675588098/626b546cdc6be749a4eea38f713ec9c1.png
+obtains money, ian5v, https://klatz.co/, https://cdn.discordapp.com/avatars/143425850753286145/a_cde2798264d4ca6d84c6e2cba09e3b46.gif
+greases the wheels (project management), Thomas Quig, https://quig.dev/, https://quig.dev/cdn/photos/glitch-crop.gif
+kali???? who goes there?, Rohan Sreenivasan, https://github.com/rohansreenivasan5/, https://media.discordapp.net/attachments/858377164756221992/858380899984474152/unknown.png
+os god, Joseph Ravichandran, https://github.com/jprx, https://raw.githubusercontent.com/sigpwny/sigpwny.github.io/c58e51c87783caee6bca08751995c4068a348a5d/images/UIUCTF/avatar_9.jpg
+king of the shirts, Pete Stenger, https://stenger.io/, https://cdn.discordapp.com/avatars/191210435746201600/639cd04f8b4f6722a8fd514c088a350d.png
+what's an LLVM?, Hassam Uddin, https://www.hassamuddin.com/, https://cdn.discordapp.com/attachments/315840860120023040/858520381793894410/unknown.png
+likes smt solvers, Kevin Higgs, https://kevinhiggs.com/, https://cdn.discordapp.com/avatars/294245609744105474/f9214f9a2fb2aaa17f6504b989705817.png
+七草何草, Michael, https://github.com/mchang9607, https://cdn.discordapp.com/attachments/315840860120023040/858520227083583498/unknown.png
+🎷, Anakin Dey, https://github.com/Spamakin, https://avatars.githubusercontent.com/u/60445095?v=4
+🚀, Pranav Goel, https://www.pranavgoel.com, https://cdn.discordapp.com/attachments/315840860120023040/858492399449800754/unknown.png
+likes computers just a little, Chris, https://twitter.com/2much4ux, https://pbs.twimg.com/profile_images/759930435824594944/sOQJg_Ng_400x400.jpg
+math god, Husnain, https://github.com/epistemologist, https://media.discordapp.net/attachments/858377164756221992/860715703246258196/profilepic_-_Copy.png
+king of the doge, Faisal Khalid, https://www.imfaisalkhalid.com/, https://media.discordapp.net/attachments/858377164756221992/860722345534160916/MainLogo.png
+found an 0day last week, Akshunna Vaishnav, https://github.com/a-v, https://media.discordapp.net/attachments/858377164756221992/860270971743109180/profile_picture.png
+meow, Daniel Wang, https://danielwang.dev/, https://media.discordapp.net/attachments/858377164756221992/860232445634150400/profile_picture.png
+found a ctfd 0day as a freshman, Nathan, https://farlow.dev/, https://avatars.githubusercontent.com/u/22306467
+knit that sweater, Anusha Ghosh, https://www.linkedin.com/in/anusha-ghosh/, https://media.discordapp.net/attachments/858377164756221992/860277927119683604/47D7A0D8-306C-4061-AB19-39DFCE3FD72C.JPG
