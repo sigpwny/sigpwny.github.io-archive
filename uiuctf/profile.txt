@@ -19,3 +19,4 @@ found an 0day last week, Akshunna Vaishnav, https://github.com/a-v, https://medi
 meow, Daniel Wang, https://danielwang.dev/, https://media.discordapp.net/attachments/858377164756221992/860232445634150400/profile_picture.png
 found a ctfd 0day as a freshman, Nathan, https://farlow.dev/, https://avatars.githubusercontent.com/u/22306467
 knit that sweater, Anusha Ghosh, https://www.linkedin.com/in/anusha-ghosh/, https://media.discordapp.net/attachments/858377164756221992/860277927119683604/47D7A0D8-306C-4061-AB19-39DFCE3FD72C.JPG
+self referential hover text, kuilin, https://kuilin.net, https://kuilin.net/profile_upscaled.png
