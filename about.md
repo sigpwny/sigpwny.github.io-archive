@@ -46,7 +46,7 @@ members: [
     name    : "Ian",
     picture : "https://klatz.co/images/arrow.png",
     link    : "https://klatz.co",
-    role    : "Former President (2017-2018)",
+    role    : "Former President (2018-2019)",
     order   : 5,
     current    : False,
   }
