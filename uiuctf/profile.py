@@ -35,7 +35,7 @@ print("<!--   END PROFILES -->")
 
 print("<!-- BEGIN ARTISTS -->")
 print('''
-<div class="header flicker-9">ARTISTS &amp; ASSETS</div>
+<div class="header flicker-9">ART &amp; ASSETS</div>
 <div class="gradient my-3"></div>
 <div class="row d-flex justify-content-center">
 

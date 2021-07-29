@@ -20,3 +20,5 @@ meow, Daniel Wang, https://danielwang.dev/, https://media.discordapp.net/attachm
 found a ctfd 0day as a freshman, Nathan, https://farlow.dev/, https://avatars.githubusercontent.com/u/22306467
 knit that sweater, Anusha Ghosh,  https://github.com/A-Ghosh13, https://media.discordapp.net/attachments/858377164756221992/860277927119683604/47D7A0D8-306C-4061-AB19-39DFCE3FD72C.JPG
 self referential hover text, kuilin, https://kuilin.net, https://kuilin.net/profile_upscaled.png
+old alum makes browsers go brrrrrr, Sam Sharps, https://www.samsharps.com/, https://example.com/sam.png
+genios chaf compooter person, Dhruv Baronia, https://github.com/boronhub, https://example.com/boron.jpg
