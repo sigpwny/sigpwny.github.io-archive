@@ -64,11 +64,18 @@ members: [
       <br>
       <hr/>
 
+	  <p>
+	  SIGPwny is a friendly, elite club from UIUC focused on cybersecurity.
+	  We host weekly learning meetings, participate in CTFs as a group, and
+	  do cutting-edge cybersecurity research.
+	  </p>
+
       <p>
-        SIGPwny is canonically spelled SIGPwny, but some currents might remember it as SIGPony.
+        SIGPwny is canonically spelled SIGPwny, but some alumni might remember it as SIGPony.
         The club was originally named SIGMil, which was founded around
 		2002, and reborn as SIGPwny around 2011.
       </p>
+
     </div>
   </div>
 
