@@ -8,9 +8,9 @@ presentations: [
     date: "2021-04-22",
   },
   {
-    link: "https://sigpwny.github.io/presentation-content/SP2021/docker.pdf",
-    title: "Docker with Faisal",
-    date: "2021-04-15",
+    link: "https://sigpwny.github.io/presentation-content/SP2021/hackillinois.pdf",
+    title: "HackIllinois with Nathan and Thomas,
+    date: "2021-04-10",
   },
   {
     link: "https://sigpwny.github.io/presentation-content/SP2021/recursive.pdf",
